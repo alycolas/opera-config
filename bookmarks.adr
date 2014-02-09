@@ -316,7 +316,7 @@ Options: encoding = utf8, version=3
 	NAME=煎蛋：地球上没有新鲜事
 	URL=http://jandan.net/
 	CREATED=1314461546
-	VISITED=1391916894
+	VISITED=1391954964
 	UNIQUEID=0F1608E194B0B06E8475FAFF7684B5B4
 
 #URL
@@ -332,7 +332,7 @@ Options: encoding = utf8, version=3
 	NAME=首页 • Opera 官方中文社区
 	URL=http://bbs.operachina.com/
 	CREATED=1314461546
-	VISITED=1391610288
+	VISITED=1391931399
 	UNIQUEID=6002C1F125699A6DA5A829D1A7E7046A
 
 #URL
@@ -424,7 +424,7 @@ Options: encoding = utf8, version=3
 	NAME=Opera论坛
 	URL=http://bbs.operachina.com/
 	CREATED=1314461546
-	VISITED=1391610288
+	VISITED=1391931399
 	UNIQUEID=5446832840D823912C90626C0C9E4CC0
 
 #URL
@@ -1655,7 +1655,7 @@ Options: encoding = utf8, version=3
 	NAME=btspread
 	URL=http://www.btspread.com/search#.UfSNkYLqcyh
 	CREATED=1374981532
-	VISITED=1390033342
+	VISITED=1391955182
 	DESCRIPTION=btspread : - The free online torrent file to magnet link conversion, magnet link to torrent file conversion, Search magnet link and Search torrent file.
 	UNIQUEID=6DAE3670F73411E28B10F0E38D459A5B
 
@@ -2919,7 +2919,7 @@ Options: encoding = utf8, version=3
 	NAME=Opera 官方中文社区
 	URL=http://bbs.operachina.com/
 	CREATED=1363262945
-	VISITED=1391610288
+	VISITED=1391931399
 	UNIQUEID=0B261E349D5C4C5AA16EF8A0B6117CE9
 
 #URL
