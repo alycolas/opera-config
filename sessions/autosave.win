@@ -4,16 +4,16 @@
 
 [session]
 version=7000
-window count=2
+window count=7
 
 [1]
 x=1
 y=1
-w=1278
-h=1006
+w=1364
+h=750
 state=0
 restore to state=0
-id=1736
+id=1947
 parent=0
 saveonclose=1
 position=0
@@ -25,22 +25,22 @@ type=0
 [2]
 x=0
 y=0
-w=1278
-h=954
+w=1364
+h=698
 state=2
 restore to state=0
-id=5566
-parent=1736
+id=5361
+parent=1947
 saveonclose=1
 position=0
-stack position=0
-active=1
+stack position=5
+active=0
 locked=0
 group=0
 group-active=0
 hidden=0
 type=1
-window id=76
+window id=181
 max history=1
 current history=1
 lists=history url,history document type,history title,history scrollpos list,history scale list
@@ -58,7 +58,7 @@ read document=1
 
 [2history url]
 count=1
-0=opera:speeddial
+0=http://blog.jobbole.com/46966/
 
 [2history document type]
 count=1
@@ -66,12 +66,282 @@ count=1
 
 [2history title]
 count=1
-0=Speed Dial
+0=Square 技术团队的 Vim 配置文件已开源 - 博客 - 伯乐在线
 
 [2history scrollpos list]
 count=1
-0=0
+0=811
 
 [2history scale list]
+count=1
+0=100
+
+[3]
+x=0
+y=0
+w=1364
+h=698
+state=2
+restore to state=0
+id=5367
+parent=1947
+saveonclose=1
+position=1
+stack position=0
+active=1
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=183
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[3history url]
+count=1
+0=http://blog.jobbole.com/10250/
+
+[3history document type]
+count=1
+0=6
+
+[3history title]
+count=1
+0=25个Vim教程、视频和资源
+
+[3history scrollpos list]
+count=1
+0=4861
+
+[3history scale list]
+count=1
+0=100
+
+[4]
+x=0
+y=0
+w=1364
+h=698
+state=2
+restore to state=0
+id=5371
+parent=1947
+saveonclose=1
+position=2
+stack position=4
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=184
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[4history url]
+count=1
+0=https://github.com/square/maximum-awesome
+
+[4history document type]
+count=1
+0=6
+
+[4history title]
+count=1
+0=square/maximum-awesome
+
+[4history scrollpos list]
+count=1
+0=972
+
+[4history scale list]
+count=1
+0=100
+
+[5]
+x=0
+y=0
+w=1364
+h=698
+state=2
+restore to state=0
+id=5405
+parent=1947
+saveonclose=1
+position=3
+stack position=2
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=188
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[5history url]
+count=1
+0=http://spf13.com/post/ultimate-vim-config
+
+[5history document type]
+count=1
+0=6
+
+[5history title]
+count=1
+0=Ultimate Vim Config - spf13.com
+
+[5history scrollpos list]
+count=1
+0=0
+
+[5history scale list]
+count=1
+0=100
+
+[6]
+x=0
+y=0
+w=1364
+h=698
+state=2
+restore to state=0
+id=5420
+parent=1947
+saveonclose=1
+position=4
+stack position=3
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=189
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[6history url]
+count=1
+0=https://github.com/spf13/spf13-vim
+
+[6history document type]
+count=1
+0=6
+
+[6history title]
+count=1
+0=spf13/spf13-vim
+
+[6history scrollpos list]
+count=1
+0=4212
+
+[6history scale list]
+count=1
+0=100
+
+[7]
+x=0
+y=0
+w=1364
+h=698
+state=2
+restore to state=0
+id=5429
+parent=1947
+saveonclose=1
+position=5
+stack position=1
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=190
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[7history url]
+count=1
+0=https://github.com/spf13/spf13-vim
+
+[7history document type]
+count=1
+0=6
+
+[7history title]
+count=1
+0=spf13/spf13-vim
+
+[7history scrollpos list]
+count=1
+0=1944
+
+[7history scale list]
 count=1
 0=100

@@ -4,7 +4,7 @@
 
 [session]
 version=7000
-window count=8
+window count=5
 
 [1]
 x=1
@@ -33,7 +33,7 @@ id=5361
 parent=1947
 saveonclose=1
 position=0
-stack position=6
+stack position=1
 active=0
 locked=0
 group=0
@@ -87,8 +87,8 @@ id=5367
 parent=1947
 saveonclose=1
 position=1
-stack position=4
-active=0
+stack position=0
+active=1
 locked=0
 group=0
 group-active=0
@@ -124,7 +124,7 @@ count=1
 
 [3history scrollpos list]
 count=1
-0=4861
+0=1297
 
 [3history scale list]
 count=1
@@ -141,7 +141,7 @@ id=5371
 parent=1947
 saveonclose=1
 position=2
-stack position=5
+stack position=3
 active=0
 locked=0
 group=0
@@ -162,7 +162,7 @@ CSS mode=1
 handheld mode=0
 scale=100
 show scrollbars=1
-read document=1
+read document=0
 
 [4history url]
 count=1
@@ -178,7 +178,7 @@ count=1
 
 [4history scrollpos list]
 count=1
-0=972
+0=0
 
 [4history scale list]
 count=1
@@ -195,7 +195,7 @@ id=5376
 parent=1947
 saveonclose=1
 position=3
-stack position=3
+stack position=2
 active=0
 locked=0
 group=0
@@ -231,7 +231,7 @@ count=2
 [5history title]
 count=2
 0=Error
-1=Top Vim Plugins - YouTube
+1=https://www.youtube.com/watch?v=_galFWwSDt0
 
 [5history scrollpos list]
 count=2
@@ -242,165 +242,3 @@ count=2
 count=2
 0=100
 1=100
-
-[6]
-x=0
-y=0
-w=1364
-h=698
-state=2
-restore to state=0
-id=5405
-parent=1947
-saveonclose=1
-position=4
-stack position=1
-active=0
-locked=0
-group=0
-group-active=0
-hidden=0
-type=1
-window id=188
-max history=1
-current history=1
-lists=history url,history document type,history title,history scrollpos list,history scale list
-encoding
-image mode=2
-user auto reload enable=0
-user auto reload sec user setting=60
-user auto reload only if expired=0
-output associated window=0
-CSS mode=1
-handheld mode=0
-scale=100
-show scrollbars=1
-read document=1
-
-[6history url]
-count=1
-0=http://spf13.com/post/ultimate-vim-config
-
-[6history document type]
-count=1
-0=6
-
-[6history title]
-count=1
-0=Ultimate Vim Config - spf13.com
-
-[6history scrollpos list]
-count=1
-0=0
-
-[6history scale list]
-count=1
-0=100
-
-[7]
-x=0
-y=0
-w=1364
-h=698
-state=2
-restore to state=0
-id=5420
-parent=1947
-saveonclose=1
-position=5
-stack position=2
-active=0
-locked=0
-group=0
-group-active=0
-hidden=0
-type=1
-window id=189
-max history=1
-current history=1
-lists=history url,history document type,history title,history scrollpos list,history scale list
-encoding
-image mode=2
-user auto reload enable=0
-user auto reload sec user setting=60
-user auto reload only if expired=0
-output associated window=0
-CSS mode=1
-handheld mode=0
-scale=100
-show scrollbars=1
-read document=1
-
-[7history url]
-count=1
-0=https://github.com/spf13/spf13-vim
-
-[7history document type]
-count=1
-0=6
-
-[7history title]
-count=1
-0=spf13/spf13-vim
-
-[7history scrollpos list]
-count=1
-0=4212
-
-[7history scale list]
-count=1
-0=100
-
-[8]
-x=0
-y=0
-w=1364
-h=698
-state=2
-restore to state=0
-id=5429
-parent=1947
-saveonclose=1
-position=6
-stack position=0
-active=1
-locked=0
-group=0
-group-active=0
-hidden=0
-type=1
-window id=190
-max history=1
-current history=1
-lists=history url,history document type,history title,history scrollpos list,history scale list
-encoding
-image mode=2
-user auto reload enable=0
-user auto reload sec user setting=60
-user auto reload only if expired=0
-output associated window=0
-CSS mode=1
-handheld mode=0
-scale=100
-show scrollbars=1
-read document=1
-
-[8history url]
-count=1
-0=https://github.com/spf13/spf13-vim
-
-[8history document type]
-count=1
-0=6
-
-[8history title]
-count=1
-0=spf13/spf13-vim
-
-[8history scrollpos list]
-count=1
-0=324
-
-[8history scale list]
-count=1
-0=100
