@@ -1,0 +1,1439 @@
+Opera Hotlist version 2.0
+Options: encoding = utf8, version=3
+
+#FOLDER
+	NAME=Trash
+	UNIQUEID=56BD213415BF4A29AADF55742DB4EA2C
+	TRASH FOLDER=YES
+
+#FOLDER
+	ID=193
+	NAME=Opera
+	CREATED=1390839796
+	PARTNERID=opera-operafolder
+	UNIQUEID=826CF25AF11C491899711FC93513A4F4
+
+#URL
+	ID=194
+	NAME=My Opera Community
+	URL=http://my.opera.com/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1390839797
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=1
+	UNIQUEID=6081957B53904ED6BAD072D157C8D408
+	PARTNERID=opera-operasocial
+
+#URL
+	ID=195
+	NAME=Support Center
+	URL=http://www.opera.com/support/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1390839797
+	UNIQUEID=BDBBEF1FCB2844A980752782E0D9670C
+	PARTNERID=opera-operasupport
+
+#URL
+	ID=196
+	NAME=Get started with Opera
+	URL=http://www.opera.com/portal/startup/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1390839797
+	UNIQUEID=18CD2A92CCF9453A98D3C2B85ADE90F2
+	PARTNERID=opera-operastart
+
+#URL
+	ID=197
+	NAME=Opera Portal
+	URL=http://portal.opera.com/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1390839797
+	UNIQUEID=93D5337B1657409084924E007F49387C
+	PARTNERID=opera-operaportal
+
+#URL
+	ID=198
+	NAME=Opera Extensions
+	URL=https://addons.opera.com/
+	CREATED=1390839797
+	DESCRIPTION=addons, extensions
+	UNIQUEID=29DF2B28174D42D08D98B71A16139D64
+	PARTNERID=opera-operaextensions
+
+#URL
+	ID=199
+	NAME=Shopping
+	URL=http://redir.operachina.com/bookmarks/2
+	CREATED=1390839797
+	DESCRIPTION=shopping, online shopping
+	UNIQUEID=788572FADC834E1197F356905C1DBE7B
+	PARTNERID=opera-webshop
+
+#URL
+	ID=200
+	NAME=Baidu
+	URL=http://redir.opera.com/bookmarks/baidu
+	DISPLAY URL=http://www.baidu.com/index.php?tn=cnopera_2_dg
+	CREATED=1390839797
+	DESCRIPTION=search
+	UNIQUEID=0147AC0E76434442A2C153D27BD2F696
+	PARTNERID=opera-searchengine
+
+#URL
+	ID=201
+	NAME=Shopping
+	URL=http://redir.opera.com/bookmarks/360buy
+	DISPLAY URL=http://click.union.360buy.com/JdClick/?unionId=8294&to=http://www.360buy.com
+	CREATED=1390839797
+	DESCRIPTION=shopping
+	UNIQUEID=6CD2C3E04EC5457A8B763FB660E8AEB
+	PARTNERID=opera-webshop2
+
+#URL
+	ID=202
+	NAME=Booking.com
+	URL=http://redir.opera.com/bookmarks/booking.com
+	DISPLAY URL=http://www.booking.com/index.html?aid=340898&label=opera-bookmarks
+	CREATED=1390839797
+	DESCRIPTION=Hotels, hotel, holiday
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=2
+	UNIQUEID=0739A8A088FA4094ADDF36856DB4340F
+	PARTNERID=opera-booking
+
+#URL
+	ID=203
+	NAME=My Opera Mail
+	URL=http://mail.opera.com/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1390839797
+	DESCRIPTION=Free mail
+	UNIQUEID=BE6CA6E1CA86413A92F5FC2C28E71CAD
+	PARTNERID=opera-mail
+
+-
+
+-
+
+#URL
+	ID=204
+	NAME=Solarized - Ethan Schoonover
+	URL=http://ethanschoonover.com/solarized
+	CREATED=1377939098
+	VISITED=1388820063
+	UNIQUEID=8CA43BF0121A11E386C8FC66DFFA16C0
+
+#URL
+	ID=205
+	NAME=QQ
+	URL=http://w.qq.com/
+	CREATED=1379723854
+	VISITED=1387890710
+	UNIQUEID=02174C60225611E3A0CB89FF89A90313
+
+#URL
+	ID=206
+	NAME=【推荐】一 一细点里番中的美熟御姐！_里番吧_百度贴吧
+	URL=http://tieba.baidu.com/p/2605939028?pn=4
+	CREATED=1379732465
+	VISITED=1381237506
+	UNIQUEID=0E5A17F0226A11E3A2F9C733D82AA7BB
+
+#FOLDER
+	ID=207
+	NAME=常用
+	CREATED=1390840033
+	UNIQUEID=AD340CE1ABA7184AA72CBFCE06507738
+
+#URL
+	ID=208
+	NAME=免费杀毒
+	URL=http://avc.360.cn/index.html?a=6073
+	CREATED=1373366570
+	UNIQUEID=F5A43E62E1DC3D4F8F228805EBF219C5
+
+#URL
+	ID=209
+	NAME=玩酷农场
+	URL=http://me.360.cn/app/farm?src=se
+	CREATED=1373366570
+	UNIQUEID=CC70B31B37A3B64E80E33804F4ED6B5A
+
+#URL
+	ID=210
+	NAME=休闲游戏
+	URL=http://wan.360.cn/?src=360se
+	CREATED=1373366570
+	UNIQUEID=E1E9AA3B42563A4AB01FB7628DC8B9B3
+
+#URL
+	ID=211
+	NAME=网址大全
+	URL=http://hao.360.cn/
+	CREATED=1373366570
+	UNIQUEID=8527D8BEB32CEB4EAF7317DF0B7D6D28
+
+#URL
+	ID=212
+	NAME=百度
+	URL=http://www.baidu.com/index.php?tn=360se_dg
+	CREATED=1373366570
+	UNIQUEID=B95E3FB6A3672D4A9F191769EAFB3B69
+
+#URL
+	ID=213
+	NAME=谷歌
+	URL=http://www.google.cn/search?client=aff-cs-360se-channel&channel=bookmark&q=
+	CREATED=1373366570
+	UNIQUEID=CB7A56047EB6BD479FD489AE3965D23F
+
+-
+
+#URL
+	ID=214
+	NAME=Pocket : Queue
+	URL=http://getpocket.com/a/queue/
+	CREATED=1362212900
+	VISITED=1392296189
+	UNIQUEID=23BC5AA0831311E28BCFD824F961EF2D
+
+#FOLDER
+	ID=215
+	NAME=Links
+	CREATED=1390840033
+	UNIQUEID=E77F10C54AA1C84088749053FEC7B1B3
+
+-
+
+#FOLDER
+	ID=192
+	NAME=Trash
+	CREATED=1390840033
+	TRASH FOLDER=YES
+	DELETABLE=NO
+	UNIQUEID=14C645A5B8A3470FB3B52CC32C97E2B8
+
+#URL
+	ID=216
+	NAME=概述 (Java 2 Platform SE 6)
+	URL=file://localhost/D:/java/docs/docs/zh/api/index.html
+	CREATED=1314461546
+	UNIQUEID=8DD2151652EA174B800E9EEA0A12AA77
+
+#URL
+	ID=217
+	NAME=qq
+	URL=http://www.webqq.com
+	CREATED=1314461546
+	UNIQUEID=F9A61FB40093704B91CEBF944FAC4276
+
+-
+
+#URL
+	ID=218
+	NAME=Engadget 中国版
+	URL=http://cn.engadget.com/
+	CREATED=1314461546
+	UNIQUEID=E92A31C0FC3F11DF90A5D3F8110B3E16
+
+#FOLDER
+	ID=219
+	NAME=安全有关
+	CREATED=1390840033
+	UNIQUEID=C4CBD3849E9EA549B38A138B3B8300A3
+
+#URL
+	ID=220
+	NAME=丁香鱼工作室—杀毒软件下载站
+	URL=http://www.luckfish.net/
+	CREATED=1314461546
+	DESCRIPTION=丁香鱼，luckfish,丁香鱼工作室，杀毒软件,防火墙,网络版，企业版，瑞星，江民，金山毒霸，卡巴斯基，NOD32，升级，升级服务器
+	UNIQUEID=8A2F475B6FED014ABC86ED05B31B73B4
+
+#URL
+	ID=221
+	NAME=Windows7之家 - Win7之家 - Win7主题 - Win7下载 - Win7激活 - Win7 SP1下载 - Windows7壁纸桌面 - Windows7下载 - Windows7优化大师、Win7优化大师官方网站
+	URL=http://www.win7china.com/
+	CREATED=1314461546
+	DESCRIPTION=Windows7之家，简称Win7之家，是国内最大的Windows7主题站点，开发有Windows7优化大师等专业Win7系统优化设置和美化清理专业工具，Win7之家提供Win7下载、Win7激活、Win7 SP1、Windows7主题、Windows7下
+	UNIQUEID=675B0BBE098D664388714EFB99984522
+
+#URL
+	ID=222
+	NAME=Free-Codecs.com :: Download codec packs : Download audio & video codec packs, filters and tools
+	URL=http://www.free-codecs.com/Codec_Packs.htm
+	CREATED=1314461546
+	DESCRIPTION=Download latest codec packs : collections of audio & video codecs and filters, FREE!
+	UNIQUEID=80BE1462339F4245AD5BC23225A0AE89
+
+#URL
+	ID=223
+	NAME=FileHippo.com - Download Free Software
+	URL=http://www.filehippo.com/
+	CREATED=1314461546
+	DESCRIPTION=Fast downloads of the latest free software!
+	UNIQUEID=E2BB899A46C9D04BB193DDC9A1D42D88
+
+#URL
+	ID=224
+	NAME=客普网安全门户
+	URL=http://www.kppoo.com/thread-2007-1-1.html
+	CREATED=1314461546
+	UNIQUEID=B6F21119E17D7845850AF1FBD13886ED
+
+#URL
+	ID=225
+	NAME=Best Free Antivirus Software Trial: Free Home, Business and Gaming Download from ESET
+	URL=http://www.eset.com/download/home
+	CREATED=1314461546
+	DESCRIPTION=Get a free antivirus software trial from ESET. This free download of ESET NOD32 antivirus, like our purchased product, won't slow your machine. Also try our gaming configuration to help out pc gamers
+	UNIQUEID=A0F015B097869E4ABDC5DCFABFAEC690
+
+#URL
+	ID=226
+	NAME=最受歡迎的十款免費安全軟件（計算機安全日特獻）
+	URL=http://choikit.org/top-10-most-popular-free-security-software-computer-security-day-special/
+	CREATED=1314461546
+	DESCRIPTION=計算機安全日（Computer Security Day）始於1988年，致力於幫助人們增強計算機安全意識，同時提醒人們註意保護好個人的計算機和信息。雖然官方規定的計算機安全日（Computer Security Day�
+	UNIQUEID=EC936270FD0511DF9082955A52864084
+
+#URL
+	ID=227
+	NAME=VirSCAN.org-多引擎在线病毒扫描网
+	URL=http://www.virscan.org/
+	CREATED=1314461546
+	DESCRIPTION=免费的多引擎可疑文件扫描服务，可以通过多个引擎检测单一的可疑、病毒、木马、恶意等程序。
+	UNIQUEID=8F1094F46BAF534E82E03D0AF951401D
+
+-
+
+#FOLDER
+	ID=228
+	NAME=Opera Mini
+	CREATED=1390840033
+	TARGET=mini
+	MOVE_IS_COPY=YES
+	SEPARATOR_ALLOWED=NO
+	UNIQUEID=241C8895399E4C3085CEBA4F2489FDE5
+
+#URL
+	ID=229
+	NAME=煎蛋：地球上没有新鲜事
+	URL=http://jandan.net/
+	CREATED=1314461546
+	VISITED=1392467549
+	UNIQUEID=0F1608E194B0B06E8475FAFF7684B5B4
+
+#URL
+	ID=230
+	NAME=Opera Mini mod|Тестовые версии
+	URL=http://opera-mini.ru/test/
+	CREATED=1314461546
+	DESCRIPTION=Opera Mini mod|Тестовые версии
+	UNIQUEID=4AAD21D014971F449644061531BA18B6
+
+#URL
+	ID=231
+	NAME=首页 • Opera 官方中文社区
+	URL=http://bbs.operachina.com/
+	CREATED=1314461546
+	VISITED=1391931399
+	UNIQUEID=6002C1F125699A6DA5A829D1A7E7046A
+
+#URL
+	ID=232
+	NAME=其它手机浏览器讨论区 - UC官方技术论坛 uc︱uc浏览器︱手机浏览器︱优视科技 - Powered by Discuz!
+	URL=http://mbbs.uc.cn/bbs_ucweb/http/bbs.uc.cn/forumdisplay.php?fid=11
+	CREATED=1314461546
+	UNIQUEID=E12FEFC49245C28D9BC6CA05F6B0F4B4
+
+#URL
+	ID=233
+	NAME=塞班智能手机论坛-Symbian系统智能手机中文论坛
+	URL=http://bbs.dospy.com/
+	CREATED=1314461546
+	UNIQUEID=55DD3402C284478483D3CDF1AC0AB302
+
+#URL
+	ID=234
+	NAME=欢迎访问[医学院--圣白社]
+	URL=http://yxyjw.ncu.edu.cn/index.asp
+	CREATED=1314461546
+	UNIQUEID=0327037B052F40DAA05F13531DA100F5
+
+#URL
+	ID=235
+	NAME=泡椒池塘-永久免费的玩机世界
+	URL=http://ct.paojiao.cn/?cid=pjct&rid=71fb0b9161b048a88fd
+	CREATED=1314461546
+	UNIQUEID=0F86F27E3CA34ABE996C3130AB27E7A3
+
+#URL
+	ID=236
+	NAME=诺基亚 - 设备软件更新 – 我能更新吗？
+	URL=http://www.nokia.com.cn/get-support-and-software/software/device-software-update/can-i-update
+	CREATED=1314461546
+	UNIQUEID=72A55AA163084E6BB6165380E7E1F145
+
+#URL
+	ID=237
+	NAME=欢迎访问嘉实基金
+	URL=http://www.jsfund.cn/portal/index.hfm
+	CREATED=1314461546
+	UNIQUEID=E3D47EF4077D3B6AA317157B5A685D2B
+
+#URL
+	ID=238
+	NAME=ismyway.com(张剑的JAVA小站)
+	URL=http://www.ismyway.com/
+	CREATED=1314461546
+	UNIQUEID=D8B5F7670129433C9802001313ECF185
+
+#URL
+	ID=239
+	NAME=贾静雯吧_贴吧
+	URL=http://tieba.baidu.com/f?kw=贾静雯&fr=tb0_search&ie=utf-8
+	CREATED=1314461546
+	UNIQUEID=29389178A9CA2132ED5EF45B73950575
+
+#URL
+	ID=240
+	NAME=弹出窗口: 博文_冬吴相对论_新浪博客
+	URL=http://blog.sina.com.cn/s/articlelist_1591039221_0_1.html
+	CREATED=1314461546
+	UNIQUEID=5A5D2626EB805B6CE4A606150242FC2D
+
+#URL
+	ID=241
+	NAME=诛仙吧_贴吧
+	URL=http://tieba.baidu.com/f?kw=诛仙&fr=tb0_search&ie=utf-8
+	CREATED=1314461546
+	UNIQUEID=00490861142998AC934F01AE6A12B20B
+
+#URL
+	ID=242
+	NAME=Gmail
+	URL=https://mail.google.com/mail/x/gp/?source=mobileproducts&dc=gorganic&hl=zh-CN&ui=mobile&zyp=l&shva=1
+	CREATED=1314461546
+	UNIQUEID=139BA4EBD6CA44878AC5BB3AF5085FDB
+
+#URL
+	ID=243
+	NAME=南昌天气预报
+	URL=http://wap.weather.com.cn/wap/weather/101240101.shtml
+	CREATED=1314461546
+	UNIQUEID=B13FCC9AFE4C4045944ADCFD57B6BD96
+
+#URL
+	ID=244
+	NAME=Opera论坛
+	URL=http://bbs.operachina.com/
+	CREATED=1314461546
+	VISITED=1391931399
+	UNIQUEID=5446832840D823912C90626C0C9E4CC0
+
+#URL
+	ID=245
+	NAME=百度一下
+	URL=http://www.baidu.com/index.php?tn=cnopera_3_dg
+	CREATED=1314461546
+	UNIQUEID=6896B440892B93AA630F518734DBDD74
+
+#URL
+	ID=246
+	NAME=Opera Mini
+	URL=http://operamini.com/
+	CREATED=1314461546
+	UNIQUEID=60478994E31DC0A8DEF71886E293DB12
+
+#URL
+	ID=247
+	NAME=Gmail - 收件箱
+	URL=https://mail.google.com/mail/h/11wf2vd2s7m2o/
+	CREATED=1314461546
+	VISITED=1377121483
+	UNIQUEID=F3D112576BD54247A9C9F3EA0530BD11
+
+#URL
+	ID=248
+	NAME=UC论坛
+	URL=http://mbbs.uc.cn/bbs_ucweb/http/bbs.uc.cn/index.php
+	CREATED=1314461546
+	UNIQUEID=A9B9B520B937DC7E489F61AE8E5FE269
+
+#URL
+	ID=249
+	NAME=网址导航
+	URL=http://redir.operachina.com/mini/speeddials/?id=1
+	CREATED=1314461546
+	UNIQUEID=310B56DD6489C7CB7237B38E0E065DCD
+
+#URL
+	ID=250
+	NAME=hao123导航
+	URL=http://wap.hao123.com/
+	CREATED=1314461546
+	UNIQUEID=BC655247A74A4C62B9D58E508105917E
+
+#URL
+	ID=251
+	NAME=京东商城
+	URL=http://m.360buy.com/home/Index.aspx?sid=05E06BBF2358E418FFBF6DAAA4FA698E
+	CREATED=1314461546
+	UNIQUEID=6D2BBD3C8D571D9277A66C9BD3D417E7
+
+#URL
+	ID=252
+	NAME=我的首页
+	URL=http://t.sina.cn/dpool/ttt/home.php?gsid=3_5bc65ef6e25003d9542fd9c762af776fc9a3c471&vt=1&lret=1
+	CREATED=1314461546
+	UNIQUEID=B40AED10E5D445C9B6D52B680E5D80E2
+
+#URL
+	ID=253
+	NAME=塞班WAP
+	URL=http://bbs.dospy.com/wap/index.php?action=forum&fid=15&sid=0106Ot
+	CREATED=1314461546
+	UNIQUEID=C15DE00CE3C2D3038CF313ED54749647
+
+#URL
+	ID=254
+	NAME=JAVA软件中文签俄证
+	URL=http://www.miqi.tk/
+	CREATED=1314461546
+	UNIQUEID=221D7FD7B199951DA63C4F5B9DDD62FE
+
+#URL
+	ID=255
+	NAME=显示扩展名-DIV CSS网页开发准备 - DIV+CSS教程学习与交流平台
+	URL=http://www.divcss5.com/html/h113.html
+	CREATED=1314461546
+	UNIQUEID=0658896C05CE7C06B439158E0E7C5A52
+
+#URL
+	ID=256
+	NAME=OSMSG
+	URL=http://www.osmsg.com/
+	CREATED=1314461546
+	UNIQUEID=60885A9273732DE64FD2BDD516AA4B3D
+
+#URL
+	ID=257
+	NAME=Nokia
+	URL=http://www.nokia.com
+	CREATED=1317433459
+	UNIQUEID=573254A211811B523747A24F5363922F
+
+#URL
+	ID=258
+	NAME=网易邮箱
+	URL=http://union.oupeng.com/click.php?id=1190
+	CREATED=1321844381
+	UNIQUEID=96E98F1BF30142CBB1BDCDF07662C538
+
+#URL
+	ID=259
+	NAME=新浪微博
+	URL=nh-widget://microblog
+	CREATED=1321844381
+	UNIQUEID=11A8C5AA0A2147449784548344A93EB3
+
+#URL
+	ID=260
+	NAME=人人网
+	URL=http://union.oupeng.com/click.php?id=1240
+	CREATED=1321844381
+	UNIQUEID=871B8F3DCED5464CB098270AABB9DFAC
+
+#URL
+	ID=261
+	NAME=Opera Portal
+	URL=http://redir.opera.com/bookmarks/portal-mini
+	CREATED=1321844381
+	UNIQUEID=395F857A39CFD1FF42DF4A1C13DED197
+
+#URL
+	ID=262
+	NAME=Wikipedia
+	URL=http://en.m.wikipedia.org
+	CREATED=1321844381
+	UNIQUEID=70B261D9680EE18EF9522D3AEA8D12FB
+
+#URL
+	ID=263
+	NAME=Google
+	URL=http://www.google.com.hk/
+	CREATED=1360206963
+	UNIQUEID=3841B47940B7413FADBC2BA8D9D18A8F
+
+-
+
+#FOLDER
+	ID=264
+	NAME=论坛
+	CREATED=1390840033
+	UNIQUEID=47FB92614C3AAB4C955F0E0FFD3D94FF
+
+#URL
+	ID=265
+	NAME=电脑报官网
+	URL=http://www.shudoo.com/
+	CREATED=1315573910
+	DESCRIPTION=数动连线，最新重要的it新闻信息分享网站。每天分享过百条最重要的it新闻，最新it信息、it资讯、it评测、it点评新闻。手机、平板电脑、笔记本电脑、厂商活动、全球it报道、国内it应用报道，全方位了解世界上it界正在发生的重大创新和变革。
+	UNIQUEID=B5D5448A3429B44C8E4C083BDA5614BE
+
+#URL
+	ID=266
+	NAME=深度技术论坛 - Powered by Discuz!
+	URL=http://bbs.deepin.org/index.php
+	CREATED=1314461546
+	DESCRIPTION= 深度技术论坛  - Discuz! Board
+	UNIQUEID=50670500DF0A11DF9449BC660E781CFD
+
+#URL
+	ID=267
+	NAME=魔兽世界吧_贴吧
+	URL=http://tieba.baidu.com/f?kw=%C4%A7%CA%DE%CA%C0%BD%E7
+	CREATED=1314461546
+	UNIQUEID=42E1707D5ED61B48A7229C4C65FFD39B
+
+#URL
+	ID=268
+	NAME=Audrey Hepburn 奥黛丽.赫本中文站
+	URL=http://www.audrey-cc.net/
+	CREATED=1314461546
+	UNIQUEID=2AEEB22846C5A04BB9D4C2CF3C46EA8C
+
+#URL
+	ID=269
+	NAME=凤凰刷机论坛 - 欢迎回家
+	URL=http://www.deso.mobi/
+	CREATED=1314461546
+	DESCRIPTION= 凤凰刷机论坛
+	UNIQUEID=EA2B2CBF4A3E0F4198142BEBE7775CE7
+
+#URL
+	ID=270
+	NAME=Windows 7专区 - 操作系统技术 - 电脑报官方论坛 - 数动连线 -配机 系统 数码 软件 网络 资源 娱乐
+	URL=http://bbs.icpcw.com/forumdisplay.php?fid=448
+	CREATED=1314461546
+	DESCRIPTION=Windows 7专区 电脑报官方论坛 电脑报官方论坛 - 数动连线，权威的IT业界论坛，专业的IT技术支持，你的IT互动学园。 - Discuz! Board
+	UNIQUEID=BFB8EF54F6F1C34C8168A25992079EE3
+
+#URL
+	ID=271
+	NAME=Windows7之家论 Powered by Discuz!
+	URL=http://bbs.windows7en.com/plugin.php?identifier=get_money&module=money
+	CREATED=1314461546
+	DESCRIPTION= Windows7之家论坛 为国内最早,最大的Win7论坛，Win7之家论坛提供Win7主题，Win7下载，Win7激活工具，Windows7旗舰版，Win7旗舰版，Win7系统下载，Windows8，Win8系统下载等资源。 - Discuz! Board
+	UNIQUEID=41DCBAE235BD894E895773020600B1FA
+
+#URL
+	ID=272
+	NAME=阿尔卡特 OT-800(Qta神器) - 手机论坛
+	URL=http://bbs.shouji.com.cn/do/listthreads?phone=50599
+	CREATED=1320598093
+	UNIQUEID=BB309C284627064D984E060D2F081BFF
+
+#URL
+	ID=273
+	NAME=阿尔卡特OT800手机 - 阿尔卡特OT800软件和游戏
+	URL=http://ot800.80time.net/index.html
+	CREATED=1320599815
+	DESCRIPTION=阿尔卡特OT800手机是目前性价比最高的全键盘互联网手机，本站主要提供阿尔卡特（alcatel）ot-800 必装软件和经典游戏推荐！
+	UNIQUEID=09C6A011318CCC48825F709F273B7AAD
+
+#FOLDER
+	ID=274
+	CREATED=1390840033
+	UNIQUEID=9FB07E80185F11E28704C888EC367040
+
+-
+
+-
+
+#SEPERATOR
+	ID=275
+	UNIQUEID=5A965D31B7E76B4FA71A4031F6502567
+
+#FOLDER
+	ID=276
+	NAME=资源
+	CREATED=1390840033
+	EXPANDED=YES
+	UNIQUEID=022212B5914C554AAAA4D27694A53FFE
+
+#URL
+	ID=277
+	NAME=萍乡广电宽带网
+	URL=http://www.pxgdwl.com/
+	CREATED=1322540483
+	UNIQUEID=C5D86F94CAF25049BE7EE2283A422D4A
+
+#URL
+	ID=278
+	NAME=萍乡信息港
+	URL=http://jxpx.vnet.cn/
+	CREATED=1322540483
+	UNIQUEID=3072151523D0BB4DAAE7579C77C15D0B
+
+#URL
+	ID=279
+	NAME=萍乡 天气预报-今日_明日_一周天气预报
+	URL=http://www.weather.com.cn/html/weather/101240901.shtml
+	CREATED=1314461546
+	VISITED=1392474798
+	DESCRIPTION=萍乡天气预报，及时准确发布中央气象台天气信息，便捷查询萍乡今日天气，萍乡明日天气，萍乡一周天气预报。萍乡天气预报还提供萍乡各区县的生活指数、健康指数、交通指数、旅游指数，及时发布萍乡气象预警信号、各类气象
+	UNIQUEID=B251C7125A0939408E96745B5E3128D5
+
+#URL
+	ID=280
+	NAME=萍乡网民上网宝典
+	URL=http://dir.px666.com/px/
+	CREATED=1322540483
+	UNIQUEID=FC3072267D98F84F8B110FE4027EAEF1
+
+#URL
+	ID=281
+	NAME=精品集中营-ps-photoshop
+	URL=http://www.pser-zone.com/down/
+	CREATED=1314461546
+	UNIQUEID=E29CE1F0E4B511DF9838E03E2972BEFA
+
+#URL
+	ID=282
+	NAME=金达 - 基于Web浏览器的在线屏幕录像软件
+	URL=http://jinda.tv/
+	CREATED=1327581805
+	DESCRIPTION=有趣的在线屏幕录制技术，轻而易举地分享你的成就和电脑视频教程!
+	UNIQUEID=0163A4F7FA558C4193D100C3CC40F197
+
+#URL
+	ID=283
+	NAME=Proxomitron中文站 | 广告过滤、代理调度、网页重写。。。
+	URL=http://proxcn.info/
+	CREATED=1327595691
+	DESCRIPTION=广告过滤、代理调度、网页重写、http header过滤、cookie控制；一般应用交流、sidki config set讨论、通用规则讨论、特定网站规则讨论
+	UNIQUEID=CAAAC026D5ED624F9CFF7312C5494F16
+
+#URL
+	ID=284
+	NAME=FlvUrl-点量视频地址解析/嗅探/分析下载门户|点量专业视频地址解析组件官网|在线视频下载, Powered by Dolit.cn点量软件
+	URL=http://www.flvurl.cn/
+	CREATED=1325262916
+	DESCRIPTION=点量视频地址解析系统：专业flv视频地址解析、嗅探、分析系统，最稳定的FLV视频下载平台,提供FLV在线视频地址分析和下载服务。支持优酷,土豆,奇艺,CNTV,新浪,搜狐,QQ等国内多家主流视频个网站的FLV和MP4、F4V下载
+	UNIQUEID=41637B70330411E18DC184E38FC0073D
+
+#URL
+	ID=285
+	NAME=精品绿色便携软件 - 追求绿色便携理念，打造清爽干净系统！
+	URL=http://www.portablesoft.org/
+	CREATED=1317460254
+	DESCRIPTION=追求绿色便携理念，打造清爽干净系统！
+	UNIQUEID=3F2DB8CFC9247049B022C85AD9E2D1C2
+
+#URL
+	ID=286
+	NAME=Windows7 任务栏缩略图自定义程序，轻松个性化设置任务栏！ | iPc.me
+	URL=http://www.ipc.me/taskband-customize.html
+	CREATED=1314461546
+	UNIQUEID=8E2E310708CCD64ABB0BF58C88C7DA9A
+
+#URL
+	ID=287
+	NAME=java 模拟器
+	URL=http://code.google.com/p/microemu/downloads/list
+	CREATED=1314461546
+	UNIQUEID=3623A74DA377B8449D183B0073B7792E
+
+#URL
+	ID=288
+	NAME=Dimensions Home
+	URL=http://www.dimensions-math.org/Dim_ZH_si.htm
+	CREATED=1314461546
+	DESCRIPTION=Dimensions.
+	UNIQUEID=A7B41FDA9FED6448A97B6081EDA288C3
+
+#URL
+	ID=289
+	NAME=孙鑫Java视频教程
+	URL=http://www.sunxin.org/video/java.htm
+	CREATED=1314461546
+	DESCRIPTION=本套视频由孙鑫老师亲自授课录制，内容涵盖面广，从入门到精通，授课通俗易懂，分析问题独到精辟，学员通过本套光盘的学习，能够快速掌握 Java 编程语言，成为 Java 高手。
+	UNIQUEID=538783BC1BB6694491E8D43B6987B6EA
+
+#URL
+	ID=290
+	NAME=小影's Blog | 关注、分享感兴趣的事物！ - Page 2
+	URL=http://c7sky.com/page/2
+	CREATED=1314461546
+	UNIQUEID=BA916C398604A8479DB82E3E6D624D1C
+
+#URL
+	ID=291
+	NAME=COMIXO - 诛仙漫画
+	URL=http://www.comixo.com/chi/index.php?option=com_content&view=article&id=6&Itemid=3
+	CREATED=1314461546
+	DESCRIPTION=Comixo是一个免费网上漫画平台，由马来西亚著名漫画家Ben所创立。现在本网站正火热连载的是改变出名网友诛仙的漫画版，还有搞笑可爱的可米兵团。Comixo也提供免费内容如e-book、emoticons等等下载。内容精彩，不容错过！
+	UNIQUEID=8BD53286975DAE44B79572CEBC637247
+
+#URL
+	ID=292
+	NAME=Dexpot - The utility for virtual desktops
+	URL=http://www.dexpot.de/index.php?id=download
+	CREATED=1314461546
+	DESCRIPTION=Dexpot - Das Utility für virtuelle Desktops
+	UNIQUEID=47E08D1C6B749444A557C369A7F99285
+
+#URL
+	ID=293
+	NAME=Digiwarez Inc. Warez Keygen
+	URL=http://www.digiwarez.com/
+	CREATED=1314461546
+	DESCRIPTION= Warez, Games, DDL, Applications, Security, Spyware, Graphic, Audio, Video, CD DVD, Internet, Design, Scripts ,Templates, Themes, Films, Game, Music
+	UNIQUEID=E0214C3B3925174B842A449BD29D0527
+
+#URL
+	ID=294
+	NAME=软件
+	URL=http://sourceforge.net/softwaremap/
+	CREATED=1314461546
+	DESCRIPTION=SourceForge.net. Fast, secure and free downloads from the largest Open Source applications and software directory.
+	UNIQUEID=A348F2913C3C3C4CA1094332823D4127
+
+#URL
+	ID=295
+	NAME=deviantART: where ART meets application!
+	URL=http://browse.deviantart.com/?qh=&section=&q=full+glass#order=9&q=full%20glass&offset=144
+	CREATED=1314461546
+	DESCRIPTION=Art - community of artists and those devoted to art. Digital art, skin art, themes, wallpaper art, traditional art, photography, poetry / prose. Art prints.
+	UNIQUEID=A817D8C9FE449F42970DAA79BC5C16CE
+
+#URL
+	ID=296
+	NAME=Java SE Downloads - Sun Developer Network (SDN)
+	URL=http://java.sun.com/javase/downloads/index.jsp
+	CREATED=1314461546
+	DESCRIPTION=This page contains Downloads related to Java SE / J2SE.
+	UNIQUEID=10957C649A866E4CA05AF988C1E5A8C9
+
+#URL
+	ID=297
+	NAME=中国X黑客小组 >> 首页
+	URL=http://www.cnxhacker.net/
+	CREATED=1314461546
+	DESCRIPTION=中国X黑客小组_黑客新闻_黑客软件_黑客论坛_黑客博客_黑客培训_黑客工具_黑客攻防_黑客动画_黑客秘技_黑客人物_超大型专业级黑客学习培训基地_黑客_基地_黑客基地_攻击_入侵_破解_漏洞_扫描_共享_木马_病毒_挂站_跳板_监听_嗅探_炸弹_伪装_拒绝服务_网络安全_防火墙_反病毒_入侵检测_身份认证_缓冲溢出_蠕虫_安全工具_攻击程序_网页木马_动画教程_安全培训_加密解密_游戏盗号_QQ密码_刷QQ币_外挂_复制外挂_挂机外挂_私服_DDOS_传奇密码_奇迹密码_天堂密码
+	UNIQUEID=06165C6F4023C240B5359E65F8433A26
+
+#URL
+	ID=298
+	NAME=TED: Ideas worth spreading
+	URL=http://www.ted.com/
+	CREATED=1314461546
+	VISITED=1390305071
+	DESCRIPTION=TED is a small nonprofit devoted to Ideas Worth Spreading -- through TED.com, our annual conferences, the annual TED Prize and local TEDx events.
+	UNIQUEID=59BA55C76EC8BE4D99693432CA2FB215
+
+#URL
+	ID=299
+	NAME=50个小于100k的 Windows 软件 | Lucifr
+	URL=http://lucifr.com/2010/02/21/50-100k-or-less-windows-software-programs/
+	CREATED=1314461546
+	DESCRIPTION=你好！也许这是你的第一次来访，推荐你订阅本站的RSS或是跟随作者的Twitter，以便第一时间读到最新的精彩内容。在如今这个硬盘奔T的时代，我们常用的软件程序的体积也在一次次的更新之后变得越来越庞大。它们不停地集成更多的功能，而这些功能可能是我们根本用不着的。 很多时候，我们所需要的只是简简单单的一个功能，但却往往要为了这么一个小功能而装一个拥有众多其它功能的软件。这些程序可能会大量侵占我们的硬盘，吞噬我们的内存和CPU时间，甚至把自己加入到启动项或是在我们不知情的情况下在后台搞起小动作。 而我们所要做的只是实现一个很简单的小功能，这个小功能可能只要几K或是几十K的小软件就可以完成，这些小软件不仅体积小巧，而且占用资源少，且多为绿色（无需安装）、免费（无需花钱或是盗版）、开源（源码都摆给你看——安全）的项目。 gHacks 总结了一个包含了50个体积小于100k 的软件列表，这些软件都在 Windows 7 专业版下通过了测试： Audioplayer: 一个全功能的音乐播放器，支持 MP3, MPGA, WAV, MIDI, AU, WMA 及 ASF 等声音文件格式，以及 WPL, ASX, WMX, WAX 及 M3U 等播放列表格式。同时支持网络媒体，且无需安装。(64K) (软件主页) Resize Enable: 可将通常无法调整大小的窗口变为可调整大小。(42K) (软件主页) Picture Watermarker: Picture Watermarker 是一个简单且界面友好的为图片添加文本或图片水印的软件。支持.jpg, .bmp,.jpeg 格式的图片。 (16K)(软件主页)
+	UNIQUEID=60C206ADA1F9AC4781FB0A1E04245319
+
+#URL
+	ID=300
+	NAME=Internet Explorer 9 Test Drive
+	URL=http://ie.microsoft.com/testdrive/
+	CREATED=1314461546
+	DESCRIPTION=Interested in checking out the new web platform capabilities of Internet Explorer 9?
+	UNIQUEID=351E7BD5015BFD4AB12A4786FA00B06D
+
+#URL
+	ID=301
+	NAME=Peacekeeper
+	URL=http://service.futuremark.com/peacekeeper/run.action
+	CREATED=1314461546
+	UNIQUEID=35FCC0BAF9BF9F42B967D427CB07A6C4
+
+#URL
+	ID=302
+	NAME=找文件 - 最专业的网盘搜索引擎 (115搜索 | RayFile搜索 | Xun6搜索)
+	URL=http://www.zhaofile.com/
+	CREATED=1314461546
+	DESCRIPTION=“找文件” 是一个专业的网络硬盘文件资源搜索引擎，可以搜索如 RayFile飞速网，115，新浪爱问等资源丰富的网盘，另外还提供在线文档、PDF电子书等搜索功能……
+	UNIQUEID=C19342106E0FEF4F8718844FA8CC657B
+
+#URL
+	ID=303
+	NAME=YYeTs,人人影视,分享 学习 进步 ——人人影视字幕组,永远为您翻译最快最好的海外影视字幕
+	URL=http://yyets.net/index-html.html
+	CREATED=1314461546
+	DESCRIPTION=YYeTs人人影视是国内最快最热门的美剧,高清电影,日剧,韩剧,纪录片,大学课程字幕翻译制作发布非盈利性爱好者组织,欢迎您进驻我们网站,我们的宗旨是：分享.学习.进步,欢迎大家一起加入我们的组织
+	UNIQUEID=4F90766B6C53E14C9AF2FE98E6ED95FB
+
+#URL
+	ID=304
+	NAME=SourceForge.net: Download and Develop Open Source Software for Free
+	URL=http://sourceforge.net/
+	CREATED=1314461546
+	DESCRIPTION=SourceForge.net. Fast, secure and free downloads from the largest Open Source applications and software directory
+	UNIQUEID=B52F9950CECC11DF9A48B99A320CD326
+
+#URL
+	ID=305
+	NAME=字幕 - 射手网 - Shooter.cn
+	URL=http://www.shooter.cn/xml/list/sub/
+	CREATED=1314461546
+	UNIQUEID=9A346870DE7511DF9126AD35FD355E48
+
+#URL
+	ID=306
+	NAME=Welcome to Flickr - Photo Sharing
+	URL=http://www.flickr.com/
+	CREATED=1314461546
+	VISITED=1378517667
+	DESCRIPTION=Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone.
+	UNIQUEID=9C17D5F0F55411DF86E09C1118E3E6EA
+
+#URL
+	ID=307
+	NAME=server.met - Server List for eDonkey and eMule
+	URL=http://ed2k.2x4u.de/index.html
+	CREATED=1314461546
+	DESCRIPTION=server.met server list for eDonkey and eMule (Serverliste für eDonkey und eMule)
+	UNIQUEID=76275900F5FF11DF9137AA353CE2E79E
+
+#URL
+	ID=308
+	NAME=OSMSG
+	URL=http://www.osmsg.com/
+	CREATED=1314461546
+	UNIQUEID=E3FE30DD18A32E49B677847F5D92C024
+
+#URL
+	ID=309
+	NAME=English as a Second Language Podcast
+	URL=http://www.eslpod.com/website/index_new.html#
+	CREATED=1314461546
+	DESCRIPTION=English as a Second Language Podcast
+	UNIQUEID=4A70A9EAA390064CB2215F3C9421EB7D
+
+#URL
+	ID=310
+	NAME=将 Ubuntu Hardy 打造成 Mac OSX Leopard 主题| OwnLinux.cn
+	URL=http://www.ownlinux.cn/2008/08/18/turn-your-ubuntu-hardy-to-mac-osx-leopard.html/3
+	CREATED=1314461546
+	DESCRIPTION=我们并不能真正地把linux系统改为苹果系统，但要把我们的Ubuntu打造地像Mac OSX却完全没问题。因为 Ubuntu 的外观的定制性相当强，你可以根据你自己的喜好来改变它的�
+	UNIQUEID=AE73E7EC37CE0048AED07A2F559E4899
+
+#URL
+	ID=311
+	NAME=有声小说,有声读物,评书,在线收听下载 - 数字听吧
+	URL=http://www.36711.com/
+	CREATED=1314461546
+	DESCRIPTION=数字听吧 是更新最快的有声小说网站.它提供:都市言情,玄幻武侠,评书,相声小品,历史军事,网游动漫,恐怖惊悚,科幻,等有声小说的在线收听,和免费下载,批量下载
+	UNIQUEID=70D12F79F5AE7B41B715B2BDD1F8BA66
+
+#URL
+	ID=312
+	NAME=Device stress tests
+	URL=http://gadgetstress.com/
+	CREATED=1314461546
+	DESCRIPTION=Device stress tests. Gadgetstress.com.
+	UNIQUEID=FEC316E2ECBA0346B8CBC9B9CBB05B1D
+
+#URL
+	ID=313
+	NAME=普特英语听力-著名英语学习网站-
+	URL=http://www.putclub.com/
+	CREATED=1314461546
+	DESCRIPTION=口碑最好，历史最长，最受网友青睐的经典免费英语学习网站，专攻英语听力训练，近10年来一直在英语学习网站中拥有领导地位。在线复读听写，口语模仿，口译训练等新一代学习模块极受网友欢迎。
+	UNIQUEID=C4AA308508BEAD4292FE52D07921A8B0
+
+#URL
+	ID=314
+	NAME=译言网首页
+	URL=http://www.yeeyan.org/
+	CREATED=1314461546
+	VISITED=1377127008
+	DESCRIPTION=译言网首页
+	UNIQUEID=10C0B700CFCF11E08BF5AA8B1BA4E76D
+
+#URL
+	ID=315
+	NAME=快盘文档管理
+	URL=http://www.kuaipan.cn/fileviewer/#
+	CREATED=1314537783
+	UNIQUEID=8B50B7E9C065C441BC6A193A5EB34958
+
+#URL
+	ID=316
+	NAME=Dashboard - Minus.com
+	URL=http://minus.com/
+	CREATED=1317836224
+	DESCRIPTION=Minus is the simplest way to share photos, docs, videos and files online. A free sharing platform for personal and professional use. Drag and drop to upload.
+	UNIQUEID=ED9E393E796944458930CD9D88262D59
+
+#URL
+	ID=317
+	NAME=冬吴相对论_新浪博客
+	URL=http://blog.sina.com.cn/dongwutalkshow
+	CREATED=1314461546
+	DESCRIPTION=冬吴相对论_新浪博客,冬吴相对论
+	UNIQUEID=AE357F7333E75C488BBBFA5C1CBDEEAA
+
+#URL
+	ID=318
+	NAME=Free File Sharing - Minus.com
+	URL=https://50.19.91.176/
+	CREATED=1317836606
+	DESCRIPTION=Minus is the simplest free file sharing platform online. Drag files onto our site or use our desktop and mobile applications to upload and start sharing files today.
+	UNIQUEID=9A977304070CB146A9DC3B67243C196A
+
+#URL
+	ID=319
+	NAME=Dropbox - Simplify your life
+	URL=https://www.dropbox.com/
+	CREATED=1317864914
+	VISITED=1390996941
+	DESCRIPTION=Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!
+	UNIQUEID=7F96A8D2D3B29241B4EB6A199B0E6865
+
+#URL
+	ID=320
+	NAME=开放资源平台
+	URL=http://www.oer.edu.cn/
+	CREATED=1319276423
+	DESCRIPTION=中国教育和科研计算机网开放资源平台，包含国内大学公开课，国外大学开放课程及其他各类开放教育资源
+	UNIQUEID=FC087A46950043409B8FCA06D46CC7B1
+
+#URL
+	ID=321
+	NAME=Convert Files - Free XPS to PDF converter. Free online document converter.
+	URL=http://www.convertfiles.com/convert/document/XPS-to-PDF.html
+	CREATED=1322284460
+	DESCRIPTION=Convert Files - Free XPS to PDFconverter.Free online document converter.
+	UNIQUEID=B1B24493D5508F4D81050C428875B46E
+
+#URL
+	ID=322
+	NAME=哥收藏了十余年的有趣、搞怪、创意的网站，让无聊滚粗我们的生活！_魔兽世界吧_贴吧
+	URL=http://tieba.baidu.com/p/1183909625
+	CREATED=1322459634
+	DESCRIPTION=百度贴吧是结合百度搜索引擎建立的大型中文社区，让那些对同一个话题感兴趣的人们聚集在一起，方便地展开交流和互相帮助。于2003年12月3日上线。
+	UNIQUEID=93CB255DB08E4644BF17AB0CED85CF9B
+
+#URL
+	ID=323
+	NAME=Pritty
+	URL=http://www.modellove.net/bbs/board.php?bo_table=hmodel&wr_id=51&sfl=&stx=&sst=wr_datetime&sod=desc&sop=and&page=102
+	CREATED=1322504645
+	UNIQUEID=6BACBDAA0903484A9EDD56627D462B6F
+
+#URL
+	ID=324
+	NAME=Google Web Fonts
+	URL=http://www.google.com/webfonts#ChoosePlace:select
+	CREATED=1326205072
+	UNIQUEID=E1AC31F03B9511E1928EDE3D05B9FD54
+
+#URL
+	ID=325
+	NAME=美国之音-VOA听力下载,慢速英语,常速英语
+	URL=http://www.51voa.com/
+	CREATED=1326793866
+	DESCRIPTION=VOA,美国之音,听力下载.
+	UNIQUEID=41DDDB95DB005C4E8119D40C609D55D7
+
+#URL
+	ID=326
+	NAME=Activation Download Software keygen
+	URL=http://activation-download.com/
+	CREATED=1328534612
+	DESCRIPTION=Here is a lot of new software with activation instructions
+	UNIQUEID=21E4E992BFB4244E8B522A2B3C724255
+
+#URL
+	ID=327
+	NAME=Crispme.com | Digital Magazine 壁纸 wallpaper
+	URL=http://crispme.com/
+	CREATED=1329748040
+	UNIQUEID=EA5A58925D45C9499E3E9EC0A12B8BCA
+
+#URL
+	ID=328
+	NAME=感谢您 - 谷歌音乐盒
+	URL=http://music.google.org.cn/dl.html
+	CREATED=1335001091
+	UNIQUEID=50F65E547731E04FB18887D0F3437EA4
+
+#URL
+	ID=329
+	NAME=PHP之道
+	URL=http://wulijun.github.com/php-the-right-way/
+	CREATED=1348535029
+	DESCRIPTION=搜集PHP最佳实践、编码规范和网络上的权威学习指南，给PHP学习者提供一个易于阅读，快速查找的入口
+	UNIQUEID=DD71CAE006AC11E285F4DE5C7F199ADD
+
+#FOLDER
+	ID=330
+	NAME=公开课
+	CREATED=1390840033
+	UNIQUEID=3148E41071EB11E295F7D8647D24F2AF
+
+#URL
+	ID=331
+	NAME=http://ocw.nctu.edu.tw/course.php
+	URL=http://ocw.nctu.edu.tw/course.php
+	CREATED=1360326575
+	VISITED=1391780605
+	UNIQUEID=32CDD66071EB11E295F8A03079A6B9B5
+
+#URL
+	ID=332
+	NAME=社團法人台灣開放式課程聯盟--首頁
+	URL=http://www.tocwc.org.tw/
+	CREATED=1360326596
+	VISITED=1391780636
+	DESCRIPTION=社團法人台灣開放式課程聯盟
+	UNIQUEID=3F14629071EB11E295F9A73D03BFDBFE
+
+#URL
+	ID=333
+	NAME=MIT OpenCourseWare | Free Online Course Materials
+	URL=http://ocw.mit.edu/index.htm
+	CREATED=1360326599
+	DESCRIPTION=MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.
+	UNIQUEID=4107800071EB11E295FAA752EDEDDDEA
+
+#URL
+	ID=334
+	NAME=上海理工大学_分数线 志愿填报 收费标准 专业设置 高校信息_新浪院校库_新浪教育_新浪网
+	URL=http://kaoshi.edu.sina.com.cn/college/c/10252.shtml
+	CREATED=1360326603
+	VISITED=1391780617
+	DESCRIPTION=此页面的说明
+	ACTIVE=YES
+	UNIQUEID=4341B89071EB11E295FBFEE69B78E95F
+
+#URL
+	ID=335
+	NAME=老赵书托（2）：计算机程序的构造与解释 - Jeffrey Zhao - 博客园
+	URL=http://www.cnblogs.com/JeffreyZhao/archive/2009/07/15/recommended-reading-2-sicp.html
+	CREATED=1391773673
+	VISITED=1391875123
+	UNIQUEID=ADEE8D008FED11E38B9ED88E4DA79D96
+
+#URL
+	ID=336
+	NAME=Structure and Interpretation of Computer Programs
+	URL=http://mitpress.mit.edu/sicp/full-text/book/book.html
+	CREATED=1391773817
+	UNIQUEID=0378E5908FEE11E38BA1F1EF244C33E3
+
+#URL
+	ID=337
+	NAME=Welcome to the SICP Web Site
+	URL=http://mitpress.mit.edu/sicp/
+	CREATED=1391774400
+	VISITED=1391774409
+	UNIQUEID=5EF050108FEF11E38BA2FCC184B93050
+
+#URL
+	ID=338
+	NAME=程序设计技术和方法 :: Structure and Interpretation of Computer Programs :: SICP :: 课程 :: 裘宗燕
+	URL=http://www.math.pku.edu.cn/teachers/qiuzy/progtech/
+	CREATED=1391774671
+	VISITED=1391875122
+	UNIQUEID=0047B7F08FF011E38BA38BC05D35ED94
+
+-
+
+#URL
+	ID=339
+	NAME=untitled, unlimited
+	URL=http://acres.rssing.com/chan-2166037/all_p1.html
+	CREATED=1372940329
+	UNIQUEID=E19F93B0E4A311E293F789428295DA3C
+
+#URL
+	ID=340
+	NAME=爱美眉_清纯美眉,性感美眉,美女明星,网络美眉,美女模特,丝袜美女
+	URL=http://www.aimm.cc/
+	CREATED=1372942927
+	DESCRIPTION=爱美眉图库网倾力打造最有视觉效果的美女图片网站，为您精挑细选高清清纯美眉、性感美女、美女写真、美女模特、美女明星、网络美眉、丝袜美女等高视觉图片。
+	UNIQUEID=EE419EA0E4A911E293F89FAB949F794C
+
+#URL
+	ID=341
+	NAME=褐色娘の画像ﾝﾎｫｯ!下さい！！！ - 二次萌エロ画像ブログ
+	URL=http://moeimg.blog133.fc2.com/blog-entry-4605.html
+	CREATED=1372943744
+	UNIQUEID=D58993C0E4AB11E293F99CC8FAB08E98
+
+#URL
+	ID=342
+	NAME=VideoTools - Downloading videos from popular resources
+	URL=http://videotools.12pings.net/#!form/reset
+	CREATED=1373650683
+	VISITED=1378016975
+	DESCRIPTION=Downloading videos from popular resources, xhamster.com, pornhub.com, xvideos.com, videotools12pings, redtube.com, tnaflix.com, empflix.com, youporn.com, vk.com, vkontakte.ru, porntalk.com, youporn.com, xxxbunker.com, 4tube.com, sextube.com, twitch.tv, justin.tv, porntube.com, myhentai.tv, youtube.com, vimeo.com, yuvutu.com, alphaporno.com, anyporn.com, xnxx.com, jizzhut.com, orgasmtube.com, moviesand.com, pornomovies.com, cybergame.tv, hashd.tv, blip.tv, beeg.com, tube8.com.
+	UNIQUEID=CDBAB010EB1911E286F0A742CDD5BD06
+
+#URL
+	ID=343
+	NAME=待归类画板 - 逍遙孒朩 - 花瓣画板
+	URL=http://huaban.com/boards/3291046/
+	CREATED=1374757145
+	DESCRIPTION= 有2个人转采
+	UNIQUEID=FC58D2C0F52911E2965EDA875DD33AE9
+
+#URL
+	ID=344
+	NAME=俺要美眉美女图片
+	URL=http://www.aymmm.com/
+	CREATED=1374757800
+	DESCRIPTION=ROSI写真,ROSI下载,ROSIMM下载,ROSI全套下载,rosimm,rosi,rosihot
+	UNIQUEID=834A2710F52B11E2965FED69B0556E33
+
+#URL
+	ID=345
+	NAME=二次エロ＠alltime
+	URL=http://niji.alltime.cc/
+	CREATED=1381237684
+	UNIQUEID=AAE69D10301A11E386C8B3BFC9102768
+
+#URL
+	ID=346
+	NAME=动画 | ★ACG和谐区★ ACGZone.us
+	URL=http://acgzone.us/category/anime
+	CREATED=1381240685
+	VISITED=1388124750
+	DESCRIPTION=ACG和谐区是一个分享二次元相关物的网站. 并且实时更新资源, 本站成员均可上传分享自己的资源, 是一个人人都能自由交流的分享平台.
+	UNIQUEID=A7760330302111E386C9EC303741FB12
+
+#URL
+	ID=347
+	NAME=灰狐 - 自由、开放、协作、分享
+	URL=http://www.huihoo.com/
+	CREATED=1386336800
+	DESCRIPTION=Huihoo - 灰狐就是协作 - collaboration for everyone
+	UNIQUEID=F8B7E8305E7A11E398B583D2CDE32033
+
+#URL
+	ID=348
+	NAME=《黑客与画家》中文版电子书分享 | IT资源分享
+	URL=http://www.wxsmt.cn/zh-hans/Hackers_and_Painters.html
+	CREATED=1389896876
+	DESCRIPTION=《黑客与画家》中文版电子下载
+	UNIQUEID=EB6921407EDB11E3B3AFAFC56EB2234D
+
+#URL
+	ID=349
+	NAME=Google Apps - RootzWiki
+	URL=http://wiki.rootzwiki.com/Google_Apps#20121011
+	CREATED=1390051070
+	UNIQUEID=EE8BC0E0804211E3879ABB1458964FC3
+
+#URL
+	ID=350
+	NAME=Video Sites you can download videos from with our Video Downloader - Ant.com
+	URL=http://www.ant.com/download-videos
+	CREATED=1392039005
+	DESCRIPTION=Ant.com has put up a list of all the free video sites that are compatible with our video downloader tool.
+	UNIQUEID=73AE0000925711E385F4F40457F71C60
+
+#URL
+	ID=351
+	NAME=Top Hentai | Hentai Stigma | Stream | Watch Hentai Online
+	URL=http://hentai.animestigma.com/top-hentai/
+	CREATED=1392433350
+	VISITED=1392436545
+	DESCRIPTION=Top 25 Most Favourited Hentai All Time
+	UNIQUEID=9BFC554095ED11E391A19092606678BE
+
+#URL
+	ID=352
+	NAME=Error
+	URL=http://m.hentai2read.com/harem_time/1/34/
+	CREATED=1392433538
+	UNIQUEID=0C1D9FF095EE11E391A2FC008CAAA707
+
+-
+
+#URL
+	ID=353
+	NAME=Engadget
+	URL=http://www.engadget.com/
+	CREATED=1314461546
+	UNIQUEID=61EDF1C0FC3E11DF90A4F73CB1826DF3
+
+#FOLDER
+	ID=354
+	NAME=Linux
+	CREATED=1390840033
+	UNIQUEID=E053BC305CCD11E08AE6D0C5B4D6119B
+
+#URL
+	ID=355
+	NAME=Ubuntu中文WIKI
+	URL=http://wiki.ubuntu.com.cn/首页
+	CREATED=1314461546
+	UNIQUEID=B388DEFD8B5E472C9F0C1A9A90FB02E6
+
+#URL
+	ID=356
+	NAME=ubuntu
+	URL=http://cdimage.ubuntu.com/releases/
+	CREATED=1314461546
+	UNIQUEID=60E9D490713411E0866D9003EA073629
+
+#URL
+	ID=357
+	NAME=vim学习（1）-常用编辑命令 - 燕窝 - 51CTO技术博客
+	URL=http://gotajuly.blog.51cto.com/2771348/531876
+	CREATED=1314461546
+	DESCRIPTION=想系统的学习vim，遂用笔记来激励。参考vim手册中文版喜欢里面的一句话“似MissionImpossible的任务.永远伴随着任何一个人的任何一个学习过程.”  学习vim的辅助工具可以用vimtutor来开始学..
+	UNIQUEID=C9EE08F05CD311E08538CD3D350EEAE1
+
+#URL
+	ID=358
+	NAME=All commands | commandlinefu.com
+	URL=http://www.commandlinefu.com/commands/browse
+	CREATED=1314461546
+	DESCRIPTION=A repository for the most elegant and useful UNIX commands.  Great commands can be shared, discussed and voted on to provide a comprehensive resource for working from the command-line
+	UNIQUEID=E2CBE8205CCD11E08AE7B7CA3B96316A
+
+#URL
+	ID=359
+	NAME=Javascript PC Emulator - Persistent Storage
+	URL=http://stud.hro.nl/0814604/jslinuxdemo/emulator.html
+	CREATED=1318509469
+	UNIQUEID=485E0FF76D0B5F42B9F5583310BA7864
+
+#URL
+	ID=360
+	NAME=VIM教程与学习资料汇总（2010-02-19更新） | 善用佳软
+	URL=http://xbeta.info/vim-tutorials.htm
+	CREATED=1322029033
+	UNIQUEID=6E2CF0461686B84194DD9586ADBCC48F
+
+#URL
+	ID=361
+	NAME=MPlayer - The Movie Player
+	URL=http://www.mplayerhq.hu/DOCS/HTML/en/index.html
+	CREATED=1323509388
+	UNIQUEID=80EDCD70231111E18AF0CA0D5A06F3E8
+
+#URL
+	ID=362
+	NAME=iambus/youku-lixian · GitHub
+	URL=https://github.com/iambus/youku-lixian
+	CREATED=1340114827
+	VISITED=1391013397
+	DESCRIPTION=优酷下载脚本，顺便支持其他……. Contribute to youku-lixian development by creating an account on GitHub.
+	UNIQUEID=0E038A40BA1811E19FCEE04F863FF064
+
+#URL
+	ID=363
+	NAME=Converting Avi files to Mp4 for Nokia 5800 « Automate Everything
+	URL=http://automate-everything.com/lang/en/2009/03/converting-avi-files-to-mp4-for-nokia-5800/
+	CREATED=1341707587
+	SHORT NAME=mencoder
+	UNIQUEID=7CBA6190C89411E1B1BCE502A54C48D5
+
+#URL
+	ID=364
+	NAME=Vim - 闲耘™.Wiki
+	URL=http://wiki.hotoo.me/Vim.html
+	CREATED=1342224074
+	UNIQUEID=07541AB0CD4711E189648CE24B0DF76E
+
+#URL
+	ID=365
+	NAME=User Configuration Files - awesome
+	URL=http://awesome.naquadah.org/wiki/User_Configuration_Files
+	CREATED=1343559128
+	VISITED=1377993952
+	UNIQUEID=71790470D96B11E1B5C684A0F11E89C0
+
+#URL
+	ID=366
+	NAME=developerWorks : Linux 专区 - 提供 IBM 关于 Linux 操作系统平台的技术资源
+	URL=http://www.ibm.com/developerworks/cn/linux/
+	CREATED=1348309493
+	VISITED=1391295484
+	DESCRIPTION=IBM developerWorks 中国网站 Linux 技术专区是您获取 Linux 信息的技术资源。
+	UNIQUEID=BF760470049F11E298E2E41D982F41DB
+
+#URL
+	ID=367
+	NAME=Linux 发行版Archlinux讨论区
+	URL=http://www.linuxsir.org/bbs/forum96.html
+	CREATED=1349511950
+	DESCRIPTION=Archlinux  基础文档建设初具规模，正式招生中~  <a href="http://www.linuxsir.org/bbs/forum96.html?sort=lastpost&order=desc&threadtypeid=&daysprune=0&goodnees=on"><font color=red>[本版精华] </font></a>
+	UNIQUEID=6FCEF3F00F8F11E296A8FD1B883BFF70
+
+#URL
+	ID=368
+	NAME=在线测试正则表达式工具
+	URL=http://www.zhongguosou.com/computer_question_tools/test_regex.aspx
+	CREATED=1350218271
+	DESCRIPTION=在线对编写的正则表达式进行测试的免费工具,快速查看编写的正则表达式是否合适或正确,提供大量的参考示例
+	UNIQUEID=F7F7C14015FB11E28763B6B094252096
+
+#URL
+	ID=369
+	NAME=Shell - ChinaUnix.net -
+	URL=http://bbs.chinaunix.net/forum-24-1.html
+	CREATED=1352038211
+	DESCRIPTION=这里讨论包括shell编程的基本知识、文本处理的工具和方法、正则表达式、linux系统编程在内的内容。 ,ChinaUnix.net
+	UNIQUEID=58F32140268911E2A26CC20339AAD5DC
+
+#URL
+	ID=370
+	NAME=Linux相关书籍(2011-10-18:更新ABS最新6.4) - Shell - ChinaUnix.net -
+	URL=http://bbs.chinaunix.net/thread-1776727-1-1.html
+	CREATED=1352039309
+	DESCRIPTION= Linux相关书籍(2011-10-18:更新ABS最新6.4) ,ChinaUnix.net
+	UNIQUEID=E6EC6D60268B11E2A26DDE023DED29BB
+
+#URL
+	ID=371
+	NAME=鸟哥的 Linux 私房菜 -- 浅谈备份策略
+	URL=http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php
+	CREATED=1352042261
+	DESCRIPTION=浅谈备份策略啊！
+	UNIQUEID=C6DFC290269211E2A272CD789E2D0C04
+
+#URL
+	ID=372
+	NAME=Home | Read the Docs
+	URL=https://readthedocs.org/
+	CREATED=1353329142
+	UNIQUEID=07C4A1D0324711E29466A08C2AE7206F
+
+#URL
+	ID=373
+	NAME=List of Applications (简体中文) - ArchWiki
+	URL=https://wiki.archlinux.org/index.php/Common_Applications_(简体中文)#.E5.91.BD.E4.BB.A4.E8.A1.8C
+	CREATED=1357096242
+	VISITED=1376493677
+	UNIQUEID=FDE60860548911E289C9AEE5A0AA68D7
+
+#URL
+	ID=374
+	NAME=dotfiles - configuration files for various applications
+	URL=http://git.sysphere.org/dotfiles/tree/xinitrc
+	CREATED=1357473330
+	UNIQUEID=F84A174057F711E29B2C82269FA09233
+
+#URL
+	ID=375
+	NAME=[原创]在线视频下载(Using Python / Bash / C / Reguar Expressions) - Wind__Fantasy - 博客园
+	URL=http://www.cnblogs.com/-Wind/archive/2012/01/30/dov.html
+	CREATED=1368625787
+	UNIQUEID=4EAF2070BD6611E2915F8BD8DFC2CBFB
+
+#URL
+	ID=376
+	NAME=ffmpeg(1) - FFmpeg 中文文件計畫
+	URL=https://sites.google.com/site/ffmpegdoc/man-page
+	CREATED=1376830113
