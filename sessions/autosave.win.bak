@@ -13,7 +13,7 @@ w=1278
 h=1006
 state=0
 restore to state=0
-id=2061
+id=932
 parent=0
 saveonclose=1
 position=0
@@ -29,8 +29,8 @@ w=1278
 h=954
 state=2
 restore to state=0
-id=6146
-parent=2061
+id=3479
+parent=932
 saveonclose=1
 position=0
 stack position=0
@@ -40,9 +40,9 @@ group=0
 group-active=0
 hidden=0
 type=1
-window id=49
-max history=1
-current history=1
+window id=9
+max history=2
+current history=2
 lists=history url,history document type,history title,history scrollpos list,history scale list
 encoding
 image mode=2
@@ -57,21 +57,26 @@ show scrollbars=1
 read document=1
 
 [2history url]
-count=1
+count=2
 0=opera:speeddial
+1=http://i.youku.com/u/home?type=friends_timeline
 
 [2history document type]
-count=1
+count=2
 0=6
+1=6
 
 [2history title]
-count=1
+count=2
 0=Speed Dial
+1=http://i.youku.com/u/home?type=friends_timeline
 
 [2history scrollpos list]
-count=1
+count=2
 0=0
+1=0
 
 [2history scale list]
-count=1
+count=2
 0=100
+1=100
