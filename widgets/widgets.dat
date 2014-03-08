@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferences>
+  <section id="widgets">
+    <value id="version" xml:space="preserve">1</value>
+  </section>
+  <section id="wuid-964b7c50-9edc-11e3-9f3f-c1b44486c0a5">
+    <value id="path to widget data" xml:space="preserve">{Preferences}widgets/redirect-to-https-2.11-1.oex</value>
+    <value id="download_URL" null="yes"/>
+    <value id="content-type" xml:space="preserve">3</value>
+    <value id="class state" xml:space="preserve">enabled</value>
+    <value id="update expires" xml:space="preserve">0</value>
+    <value id="update last modified" xml:space="preserve">1372166585</value>
+    <value id="update type" xml:space="preserve">update</value>
+    <value id="update id" null="yes"/>
+    <value id="update src" xml:space="preserve">https://extension-updates.opera.com/media/extensions/98/98e31a45-5645-41cc-9ec7-d2faf5641332.oex</value>
+    <value id="update version" xml:space="preserve">2.11</value>
+    <value id="update bytes" xml:space="preserve">0</value>
+    <value id="update mandatory" xml:space="preserve">0</value>
+    <value id="update details" null="yes"/>
+    <value id="update href" null="yes"/>
+  </section>
+</preferences>
