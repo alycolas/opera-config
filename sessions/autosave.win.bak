@@ -13,7 +13,7 @@ w=1278
 h=1006
 state=0
 restore to state=0
-id=2559
+id=2095
 parent=0
 saveonclose=1
 position=0
@@ -23,14 +23,14 @@ locked=0
 type=0
 
 [2]
-x=10
-y=33
-w=1258
-h=910
-state=0
+x=0
+y=0
+w=1278
+h=958
+state=2
 restore to state=0
-id=6504
-parent=2559
+id=6069
+parent=2095
 saveonclose=1
 position=0
 stack position=0
@@ -40,9 +40,9 @@ group=0
 group-active=0
 hidden=0
 type=1
-window id=22
-max history=6
-current history=6
+window id=29
+max history=1
+current history=1
 lists=history url,history document type,history title,history scrollpos list,history scale list
 encoding
 image mode=2
@@ -57,46 +57,21 @@ show scrollbars=1
 read document=1
 
 [2history url]
-count=6
+count=1
 0=opera:speeddial
-1=http://jandan.net/
-2=http://jandan.net/pic
-3=http://jandan.net/pic/page-4206#comments
-4=http://jandan.net/ooxx
-5=http://jandan.net/ooxx/page-1067#comments
 
 [2history document type]
-count=6
+count=1
 0=6
-1=6
-2=6
-3=6
-4=6
-5=6
 
 [2history title]
-count=6
+count=1
 0=Speed Dial
-1=http://jandan.net/
-2=http://jandan.net/pic
-3=http://jandan.net/pic/page-4206#comments
-4=妹子图
-5=妹子图
 
 [2history scrollpos list]
-count=6
+count=1
 0=0
-1=0
-2=8323
-3=0
-4=7526
-5=14904
 
 [2history scale list]
-count=6
+count=1
 0=100
-1=100
-2=100
-3=100
-4=100
-5=100

@@ -1,4 +1,4 @@
-﻿.moneyarea{ display: none !important}
+﻿.moneyarea{ display: none !important;}
 
 /*zealer*/
 #container {min-height: 0% !important;}
@@ -14,8 +14,10 @@
 
 
 
-/* 3g weibo  start*/
-.user_slide, #carousel_dots {display: none !important;}
+/* weibo  start*/
+.WB_main_r, .PCD_mplayer, .webim_fold, .user_slide, #carousel_dots {display: none !important;}
+#v6_pl_content_biztips {display:none !important;}
+#plc_top,#plc_bot {display:none !important;}
 /* 3g weibo end */
 
 

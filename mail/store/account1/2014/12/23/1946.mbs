@@ -1,0 +1,228 @@
+From archlinux-cn@googlegroups.com Tue Dec 23 08:04:53 2014 1946
+X-Opera-Status: 05000000000000079a549922250000301c0800008000002edb00000000000000010000000000000000000000000000000a0000000000000000
+X-Opera-Location: INBOX:4085
+Delivered-To: alycolas@gmail.com
+Received: by 10.216.111.5 with SMTP id v5csp377848weg; Mon, 22 Dec 2014
+ 18:14:11 -0800 (PST)
+Return-path: <archlinux-cn+bncBDFIVZVCY4GBB4M74OSAKGQE2SRRCEQ@googlegroups.com>
+Received-SPF: pass (google.com: domain of archlinux-cn+bncBDFIVZVCY4GBB4M74OSAKGQE2SRRCEQ@googlegroups.com designates 10.51.15.133 as permitted sender) client-ip=10.51.15.133
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of archlinux-cn+bncBDFIVZVCY4GBB4M74OSAKGQE2SRRCEQ@googlegroups.com designates 10.51.15.133 as permitted sender) smtp.mail=archlinux-cn+bncBDFIVZVCY4GBB4M74OSAKGQE2SRRCEQ@googlegroups.com; dkim=pass header.i=@googlegroups.com
+X-Received: from mr.google.com ([10.51.15.133]) by 10.51.15.133 with SMTP id fo5mr3143465igd.3.1419300851259 (num_hops = 1); Mon, 22 Dec 2014 18:14:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googlegroups.com; s=20120806; h=mime-version:to:from:subject:message-id:date:content-type :x-original-sender:reply-to:precedence:mailing-list:list-id :list-post:list-help:list-archive:sender:list-subscribe :list-unsubscribe; bh=HVH5TGs7nD+1YdGiAb6z3R68mMc7AxrWSbI77hmJRSk=; b=HRPX5OTuXr1Cx4W5QklwdUT/chlcBOJj5rv9sOZoPeI85Uam8aibY6BPlrxRMvB23T jp+yAIMlDeaKSqkshuRuk215d0xiyWqPAyFH9UZjVWMD3gIrXyjr+3tS5WOGHKEQvv0t vIiMKT7BE/UfG6I1YRSsLq4hbPQVaGaj6zoCkbhnz6jWBX/BBPFz36bUdJ2FeXXUkL2x 6b7Q+4tE03XLlQ1rOPIk8hjS2zjWsIrWc/c7xKRzkXbPpqsXRBG1GbyMdVeLgBGoEybh jU3n7sUv8VG1GG5/drS1rtj6Q0xIUei5gQIzPULvZXY4gWiRrbaxwSfsDKYGLbbZC5p/ v1VA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googlegroups.com; s=20120806; h=mime-version:to:from:subject:message-id:date:content-type :x-original-sender:reply-to:precedence:mailing-list:list-id :list-post:list-help:list-archive:sender:list-subscribe :list-unsubscribe; bh=HVH5TGs7nD+1YdGiAb6z3R68mMc7AxrWSbI77hmJRSk=; b=HRPX5OTuXr1Cx4W5QklwdUT/chlcBOJj5rv9sOZoPeI85Uam8aibY6BPlrxRMvB23T jp+yAIMlDeaKSqkshuRuk215d0xiyWqPAyFH9UZjVWMD3gIrXyjr+3tS5WOGHKEQvv0t vIiMKT7BE/UfG6I1YRSsLq4hbPQVaGaj6zoCkbhnz6jWBX/BBPFz36bUdJ2FeXXUkL2x 6b7Q+4tE03XLlQ1rOPIk8hjS2zjWsIrWc/c7xKRzkXbPpqsXRBG1GbyMdVeLgBGoEybh jU3n7sUv8VG1GG5/drS1rtj6Q0xIUei5gQIzPULvZXY4gWiRrbaxwSfsDKYGLbbZC5p/ v1VA==
+X-Received: by 10.51.15.133 with SMTP id fo5mr289354igd.3.1419300850444; Mon, 22 Dec 2014 18:14:10 -0800 (PST)
+X-BeenThere: archlinux-cn@googlegroups.com
+Received: by 10.107.162.203 with SMTP id l194ls3765093ioe.23.gmail; Mon, 22
+ Dec 2014 18:14:09 -0800 (PST)
+X-Received: by 10.70.36.167 with SMTP id r7mr19951211pdj.1.1419300849670; Mon, 22 Dec 2014 18:14:09 -0800 (PST)
+MIME-Version: 1.0
+To: =?gbk?B?1arSqsrVvP7Iyw==?= <archlinux-cn@googlegroups.com>
+From: archlinux-cn@googlegroups.com
+Subject: =?gbk?B?W2FyY2hsaW51eC1jbl0gYXJjaGxpbnV4LWNuQGdvb2dsZWdyb3Vwcy5jb20g?=
+ =?gbk?B?tcTVqtKqIC0gobAxuPbW98ziobHT0CAxuPa4/NDC?=
+Message-ID: <bcaec518253cf900f7050ad8ba01@google.com>
+Date: Tue, 23 Dec 2014 10:14:09 +0800
+Content-Type: multipart/alternative; boundary=0016367f94b4b30060474d22062
+X-Original-Sender: archlinux-cn@googlegroups.com
+Reply-To: archlinux-cn@googlegroups.com
+Precedence: list
+Mailing-List: list archlinux-cn@googlegroups.com; contact archlinux-cn+owners@googlegroups.com
+List-Id: archlinux-cn.googlegroups.com
+X-Google-Group-Id: 431448753482
+List-Post: <http://groups.google.com/group/archlinux-cn/post>, <mailto:archlinux-cn@googlegroups.com>
+List-Help: <http://groups.google.com/support/>, <mailto:archlinux-cn+help@googlegroups.com>
+List-Archive: <http://groups.google.com/group/archlinux-cn
+Sender: archlinux-cn@googlegroups.com
+List-Subscribe: <http://groups.google.com/group/archlinux-cn/subscribe>, <mailto:archlinux-cn+subscribe@googlegroups.com>
+List-Unsubscribe: <mailto:googlegroups-manage+431448753482+unsubscribe@googlegroups.com>, <http://groups.google.com/group/archlinux-cn/subscribe>
+
+--0016367f94b4b30060474d22062
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT0K5LuK5pel5Li76aKY5pGY6KaBCj09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09CgrnvqTnu4Q6IGFyY2hsaW51eC1jbkBnb29nbGVncm91cHMuY29tCue9keWdgDogCiAgaHR0
+cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9mb3J1bS8/dXRtX3NvdXJjZT1kaWdlc3QmdXRtX21lZGl1
+bT1lbWFpbCMhZm9ydW0vYXJjaGxpbnV4LWNuL3RvcGljcwoKCiAgLSDljYfnuqdweXRob27lkI5n
+b2FnZW505Ye6546wQXR0cmlidXRlRXJyb3I6ICdtb2R1bGUnIG9iamVjdCBoYXMgbm8gYXR0cmli
+dXRlICdzc2x3cmFwJyBbMSDmnaHmm7TmlrBdCiAgICBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20v
+Z3JvdXAvYXJjaGxpbnV4LWNuL3QvMWJlOTBjOTEzYjdkOTZjNQoKCj09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09CuS4u+mimDog5Y2H57qncHl0aG9u5ZCOZ29hZ2VudOWHuueOsEF0dHJpYnV0ZUVycm9yOiAn
+bW9kdWxlJyBvYmplY3QgaGFzIG5vIGF0dHJpYnV0ZSAnc3Nsd3JhcCcK572R5Z2AOiBodHRwOi8v
+Z3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvYXJjaGxpbnV4LWNuL3QvMWJlOTBjOTEzYjdkOTZjNQo9
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PQoKLS0tLS0tLS0tLSDnrKwgMSDkuKrvvIjlhbEgMSDkuKrvvIkg
+LS0tLS0tLS0tLQrlj5Hku7bkuro6IEZlbGl4IFlhbiA8ZmVsaXhvbm1hcnNAZ21haWwuY29tPgrm
+l6XmnJ86IERlYyAyMiAwNjoxMFBNICswODAwCue9keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUu
+Y29tL2dyb3VwL2FyY2hsaW51eC1jbi9tc2cvMTdmMGRkN2I0NTE3ZDM0MQoKT24gU2F0dXJkYXks
+IERlY2VtYmVyIDEzLCAyMDE0IDEyOjU4OjUyIEdTQyB3cm90ZToNCg0KPiA+IOaAjuS5iOino+WG
+s++8nw0KPiA+IGh0dHBzOi8vZ2l0aHViLmNvbS9nZXZlbnQvZ2V2ZW50L2lzc3Vlcy80NzcNCg0K
+PiDnm67liY3miJHlhYjpmY3nuqfliLAyLjcuOOS6hu+8jGdvYWdlbnTnmoTkvp3otZbmnIDlpb3l
+hpnkuIrlkKfvvJ8NCg0KMy4yLjMtMiDlt7Lnu4/kv67lpI0uDQoNCuiZveeEtuWbnuWkjeeahOac
+ieeCueaZmuS6hi4uLg0KDQpSZWdhcmRzLA0KRmVsaXggWWFuDQoKCgoKCgotLQrmgqjmlLbliLDm
+raTmkZjopoHpgq7ku7bmmK/lm6DkuLrmgqjorqLpmIXkuobmraTnvqTnu4TnmoTmnIDmlrDliqjm
+gIHjgILmgqjlj6/ku6XlnKjnvqTnu4TmiJDlkZjotYTmoLzpobXpnaLkuIrmm7TmlLnorr7nva7v
+vJoKICBodHRwczovL2dyb3Vwcy5nb29nbGUuY29tL2ZvcnVtLz91dG1fc291cmNlPWRpZ2VzdCZ1
+dG1fbWVkaXVtPWVtYWlsIyFmb3J1bS9hcmNobGludXgtY24vam9pbgrjgIIK6KaB6YCA6K6i5q2k
+576k57uE5bm25YGc5q2i5o6l5pS26K+l576k57uE5Y+R5p2l55qE55S15a2Q6YKu5Lu277yM6K+3
+5Y+R6YCB55S15a2Q6YKu5Lu25YiwYXJjaGxpbnV4LWNuK3Vuc3Vic2NyaWJlQGdvb2dsZWdyb3Vw
+cy5jb23jgIIKCg==
+--0016367f94b4b30060474d22062
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+
+<div style=3D"border:1px solid #d3d3d3;max-width:850px;font-family:Arial,sa=
+ns-serif;color:#000000;">
+  <div style=3D"background-color:#f5f5f5;padding:10px 20px">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%">
+      <tbody>
+        <tr>
+          <td style=3D"width:70%">
+            <span style=3D"font:18px/20px arial;color:#333333">
+              <a href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/archlinux-cn/topics
+" style=3D"text-decoration:none; color:#333333">
+              archlinux-cn@googlegroups.com</a>
+            </span>
+          </td>
+          <td style=3D"text-align:right;width:30%">
+            <span style=3D"font:20px/24px arial"><a style=3D"color:#dd4b39;=
+ text-decoration:none;" href=3D"https://groups.google.com/forum/?utm_source=
+=3Ddigest&utm_medium=3Demail/#!overview" target=3D"_blank">Google=E7=BD=91=
+=E4=B8=8A=E8=AE=BA=E5=9D=9B</a></span>
+          </td>
+          <td style=3D"width:32px;">
+            <a href=3D"https://groups.google.com/forum/?utm_source=3Ddigest=
+&utm_medium=3Demail/#!overview" target=3D"_blank"><img style=3D"border:0;ve=
+rtical-align:middle"
+                src=3D"http://www.google.com/images/icons/product/groups-32=
+.png"></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style=3D"padding:20px; background-color: #f5f5f5;">
+
+
+<div style=3D"font-family: arial; color: #222222; padding: 0px">
+  <a name=3D"digest_top" style=3D"font-size:21px;">
+ =20
+ =20
+    =E4=B8=BB=E9=A2=98=E6=91=98=E8=A6=81
+ =20
+  </a><br>
+  <span style=3D"font-size:11px">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/archlinux-cn/topics
+">=E6=9F=A5=E7=9C=8B=E6=89=80=E6=9C=89=E4=B8=BB=E9=A2=98</a>
+  </span>
+</div>
+<div style=3D"font: 13px/18px arial; color:#222222; padding: 0px; margin-bo=
+ttom:30px">
+  <ul style=3D"margin-left:3px; padding-left:0px">
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_0">
+      =E5=8D=87=E7=BA=A7python=E5=90=8Egoagent=E5=87=BA=E7=8E=B0AttributeEr=
+ror: &#39;module&#39; object has no attribute &#39;sslwrap&#39;</a> -
+      <span style=3D"color:#777777">1 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+  </ul>
+</div>
+
+
+
+ =20
+  <a name=3D"group_thread_0"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/archlinux-c=
+n/t/1be90c913b7d96c5?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-=
+size:21px; color:#1155CC; text-decoration:none">
+      =E5=8D=87=E7=BA=A7python=E5=90=8Egoagent=E5=87=BA=E7=8E=B0AttributeEr=
+ror: &#39;module&#39; object has no attribute &#39;sslwrap&#39;
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+      <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-famil=
+y: arial; padding:10px 15px; border:1px solid #d3d3d3;">
+        <span style=3D"color:#B1B0B0; font-size: 15px;">
+          Felix Yan &lt;felixonmars@gmail.com&gt;: Dec 22 06:10PM +0800
+        </span>
+        <br /><br />
+        On Saturday, December 13, 2014 12:58:52 GSC wrote:<br />
+&nbsp;<br />
+&gt; &gt; =E6=80=8E=E4=B9=88=E8=A7=A3=E5=86=B3=EF=BC=9F<br />
+&gt; &gt; <a href=3D"https://github.com/gevent/gevent/issues/477">https://g=
+ithub.com/gevent/gevent/issues/477</a><br />
+&nbsp;<br />
+&gt; =E7=9B=AE=E5=89=8D=E6=88=91=E5=85=88=E9=99=8D=E7=BA=A7=E5=88=B02.7.8=
+=E4=BA=86=EF=BC=8Cgoagent=E7=9A=84=E4=BE=9D=E8=B5=96=E6=9C=80=E5=A5=BD=E5=
+=86=99=E4=B8=8A=E5=90=A7=EF=BC=9F<br />
+&nbsp;<br />
+3.2.3-2 =E5=B7=B2=E7=BB=8F=E4=BF=AE=E5=A4=8D.<br />
+&nbsp;<br />
+=E8=99=BD=E7=84=B6=E5=9B=9E=E5=A4=8D=E7=9A=84=E6=9C=89=E7=82=B9=E6=99=9A=E4=
+=BA=86...<br />
+&nbsp;<br />
+Regards,<br />
+Felix Yan<br />
+
+      </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+
+
+  </div>
+  <div style=3D"background-color: #f5f5f5;padding: 5px 20px;">
+  <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%">
+  <tbody><tr>
+    <td style=3D"padding-top:4px;font-family:arial,sans-serif;color:#636363=
+;font-size:11px">
+     =20
+      =E6=82=A8=E6=94=B6=E5=88=B0=E6=AD=A4=E6=91=98=E8=A6=81=E9=82=AE=E4=BB=
+=B6=E6=98=AF=E5=9B=A0=E4=B8=BA=E6=82=A8=E8=AE=A2=E9=98=85=E4=BA=86=E6=AD=A4=
+=E7=BE=A4=E7=BB=84=E7=9A=84=E6=9C=80=E6=96=B0=E5=8A=A8=E6=80=81=E3=80=82=E6=
+=82=A8=E5=8F=AF=E4=BB=A5=E5=9C=A8<a href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/archlinux-cn/join
+" style=3D"color:#1155cc;text-decoration:none">=E7=BE=A4=E7=BB=84=E6=88=90=
+=E5=91=98=E8=B5=84=E6=A0=BC=E9=A1=B5=E9=9D=A2</a>=E4=B8=8A=E6=9B=B4=E6=94=
+=B9=E8=AE=BE=E7=BD=AE=E3=80=82<br/>
+      =E8=A6=81=E9=80=80=E8=AE=A2=E6=AD=A4=E7=BE=A4=E7=BB=84=E5=B9=B6=E5=81=
+=9C=E6=AD=A2=E6=8E=A5=E6=94=B6=E6=AD=A4=E7=BE=A4=E7=BB=84=E7=9A=84=E7=94=B5=
+=E5=AD=90=E9=82=AE=E4=BB=B6=EF=BC=8C=E8=AF=B7=E5=8F=91=E9=80=81=E7=94=B5=E5=
+=AD=90=E9=82=AE=E4=BB=B6=E5=88=B0 <a href=3D"mailto:archlinux-cn+unsubscrib=
+e@googlegroups.com">archlinux-cn+unsubscribe@googlegroups.com</a>=E3=80=82
+    </td>
+  </tr></tbody>
+  </table>
+  </div>
+</div>
+
+
+--0016367f94b4b30060474d22062--
+
+

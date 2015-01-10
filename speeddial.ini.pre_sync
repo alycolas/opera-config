@@ -13,3 +13,43 @@ operachina-social
 
 [Background]
 Enabled=0
+
+[Speed Dial 1]
+Title=Most popular videos
+Custom Title=0
+Url=http://www.youtube.com/watch?v=AtPlaYT0gvM&feature=youtube_gdata
+Extension ID=wuid-76678710-0ea0-11e4-8df3-c5cdafd3ce99
+Reload Policy=0
+ID=714A04B00EA011E48DF2E6866539E4DE
+Reload Interval=2147483646
+Reload Only If Expired=0
+
+[Speed Dial 2]
+Title=TED: Ideas worth spreading
+Custom Title=0
+Url=http://www.ted.com/talks/ze_frank_are_you_human
+Extension ID=wuid-a91e29c0-0ea0-11e4-8df5-c926a95f7833
+Reload Policy=0
+ID=A9204CA00EA011E48DF7DD317F637267
+Reload Interval=2147483646
+Reload Only If Expired=0
+
+[Speed Dial 3]
+Title=Saturday, 19 July 2014, 10:19
+Custom Title=0
+Url=http://www.google.com/calendar/b/0/render
+Extension ID=wuid-19b42f40-0ea1-11e4-8df8-a6d7dd0089a0
+Reload Policy=0
+ID=19B604000EA111E48DFAF61BB5777E1D
+Reload Interval=2147483646
+Reload Only If Expired=0
+
+[Speed Dial 4]
+Title=Gmail - Inbox for alycolas@gmail.com
+Custom Title=0
+Url=http://www.gmail.com
+Extension ID=wuid-654e6ec0-0ea1-11e4-8dfc-dfc94e982dd0
+Reload Policy=0
+ID=654FA7400EA111E48DFEF6F7500942B5
+Reload Interval=2147483646
+Reload Only If Expired=0

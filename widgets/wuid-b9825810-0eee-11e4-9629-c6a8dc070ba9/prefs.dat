@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferences>
+  <section id="ui">
+    <value id="name" xml:space="preserve">Adblock Plus</value>
+  </section>
+  <section id="wuid-b9825810-0eee-11e4-9629-c6a8dc070ba9">
+    <value id="network_access" xml:space="preserve">24</value>
+  </section>
+  <section id="user">
+    <value id="GadgetRunOnSecureConn" xml:space="preserve">yes</value>
+    <value id="GadgetEnabledOnStartup" xml:space="preserve">yes</value>
+  </section>
+</preferences>

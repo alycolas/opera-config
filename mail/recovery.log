@@ -1,0 +1,26 @@
+
+
+==== Logging started ====
+22/07-2014 19:57:24 Ghostbuster
+Started
+22/07-2014 19:57:24 Ghostbuster
+Finished: Deleted 0 ghosts from the following indexes:(null)
+
+
+==== Logging started ====
+22/07-2014 19:57:24 Consistency check and repair
+Initialized
+22/07-2014 19:57:24 IMAP account 1
+Database consistent
+22/07-2014 19:57:24 Message ID
+Database consistent
+22/07-2014 19:57:24 Indexer
+Checking consistency
+22/07-2014 19:57:24 Indexer
+Database consistent
+22/07-2014 19:57:24 Consistency check and repair
+Finished
+22/07-2014 19:57:24 Lexicon
+Checking consistency
+22/07-2014 19:57:24 Lexicon
+Database consistent
