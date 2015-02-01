@@ -4,7 +4,7 @@
 
 [session]
 version=7000
-window count=2
+window count=9
 
 [1]
 x=1
@@ -13,7 +13,7 @@ w=1278
 h=1006
 state=0
 restore to state=0
-id=2095
+id=2480
 parent=0
 saveonclose=1
 position=0
@@ -29,18 +29,18 @@ w=1278
 h=958
 state=2
 restore to state=0
-id=6069
-parent=2095
+id=3952
+parent=2480
 saveonclose=1
 position=0
-stack position=0
-active=1
+stack position=7
+active=0
 locked=0
 group=0
 group-active=0
 hidden=0
 type=1
-window id=29
+window id=2
 max history=1
 current history=1
 lists=history url,history document type,history title,history scrollpos list,history scale list
@@ -75,3 +75,446 @@ count=1
 [2history scale list]
 count=1
 0=100
+
+[3]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6296
+parent=2480
+saveonclose=1
+position=1
+stack position=0
+active=1
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=31
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[3history url]
+count=1
+0=https://www.google.com/search?hl=en&source=hp&q=APNIC&btnG=Google+Search&gbv=2&oq=&gs_l=
+
+[3history document type]
+count=1
+0=6
+
+[3history title]
+count=1
+0=APNIC - Google Search
+
+[3history scrollpos list]
+count=1
+0=0
+
+[3history scale list]
+count=1
+0=100
+
+[4]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6300
+parent=2480
+saveonclose=0
+position=2
+stack position=1
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=34
+max history=7
+current history=5
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[4history url]
+count=7
+0=https://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCAQFjAA&url=https%3A%2F%2Fwww.apnic.net%2F&ei=CQnJVP-cEdivoQTJ2ILoBw&usg=AFQjCNH6bx-1njg95MAf2wcV6kibyTjPeg&sig2=wgmCOCnbbkmWcDItBbEcCA&bvm=bv.84607526,d.cGU&cad=rjt
+1=https://www.apnic.net/
+2=https://www.apnic.net/apnic-info/whois_search/about
+3=http://www.apnic.net/apnic-info/whois_search/your-ip
+4=http://www.apnic.net/apnic-info/whois_search/using-whois
+5=http://www.apnic.net/apnic-info/whois_search
+6=http://wq.apnic.net/apnic-bin/whois.pl
+
+[4history document type]
+count=7
+0=6
+1=6
+2=6
+3=6
+4=6
+5=6
+6=6
+
+[4history title]
+count=7
+0=https://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCAQFjAA&url=https%3A%2F%2Fwww.apnic.net%2F&ei=CQnJVP-cEdivoQTJ2ILoBw&usg=AFQjCNH6bx-1njg95MAf2wcV6kibyTjPeg&sig2=wgmCOCnbbkmWcDItBbEcCA&bvm=bv.84607526,d.cGU&cad=rjt
+1=https://www.apnic.net/
+2=About the APNIC Whois Database | APNIC
+3=Your IP address | APNIC
+4=Using Whois | APNIC
+5=Whois search | APNIC
+6=APNIC - Query the APNIC Whois Database
+
+[4history scrollpos list]
+count=7
+0=0
+1=0
+2=0
+3=68
+4=324
+5=0
+6=0
+
+[4history scale list]
+count=7
+0=100
+1=100
+2=100
+3=100
+4=100
+5=100
+6=100
+
+[5]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6818
+parent=2480
+saveonclose=1
+position=3
+stack position=2
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=82
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[5history url]
+count=1
+0=https://www.google.com/search?hl=en&source=hp&q=www.tumblr.com+ip&btnG=Google+Search&gbv=2&oq=&gs_l=
+
+[5history document type]
+count=1
+0=6
+
+[5history title]
+count=1
+0=www.tumblr.com ip - Google Search
+
+[5history scrollpos list]
+count=1
+0=0
+
+[5history scale list]
+count=1
+0=100
+
+[6]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6236
+parent=2480
+saveonclose=1
+position=4
+stack position=5
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=17
+max history=1
+current history=1
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[6history url]
+count=1
+0=https://github.com/ashi009/bestroutetb
+
+[6history document type]
+count=1
+0=6
+
+[6history title]
+count=1
+0=ashi009/bestroutetb · GitHub
+
+[6history scrollpos list]
+count=1
+0=0
+
+[6history scale list]
+count=1
+0=100
+
+[7]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6197
+parent=2480
+saveonclose=1
+position=5
+stack position=6
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=14
+max history=4
+current history=4
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[7history url]
+count=4
+0=opera:speeddial
+1=http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=ip&rsv_pq=f06cfe4b000054d7&rsv_t=2560zgQqMBBx7DUOsoS9nGkS0asnzDkxfUj0tuB8Wer9nS1oeX%2BEYSunL0Q&rsv_enter=0&rsv_sug3=11&rsv_sug4=969&rsv_sug1=2&rsv_sug2=0&inputT=2758
+2=http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=ip&rsv_pq=f06cfe4b000054d7&rsv_t=2560zgQqMBBx7DUOsoS9nGkS0asnzDkxfUj0tuB8Wer9nS1oeX%2BEYSunL0Q&rsv_enter=0&rsv_sug3=11&rsv_sug4=969&rsv_sug1=2&rsv_sug2=0&inputT=2758
+3=http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=ip&rsv_pq=f06cfe4b000054d7&rsv_t=2560zgQqMBBx7DUOsoS9nGkS0asnzDkxfUj0tuB8Wer9nS1oeX%2BEYSunL0Q&rsv_enter=0&rsv_sug3=11&rsv_sug4=969&rsv_sug1=2&rsv_sug2=0&inputT=2758
+
+[7history document type]
+count=4
+0=6
+1=6
+2=6
+3=6
+
+[7history title]
+count=4
+0=Speed Dial
+1=百度一下，你就知道
+2=http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=ip&rsv_pq=f06cfe4b000054d7&rsv_t=2560zgQqMBBx7DUOsoS9nGkS0asnzDkxfUj0tuB8Wer9nS1oeX%2BEYSunL0Q&rsv_enter=0&rsv_sug3=11&rsv_sug4=969&rsv_sug1=2&rsv_sug2=0&inputT=2758
+3=http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=ip&rsv_pq=f06cfe4b000054d7&rsv_t=2560zgQqMBBx7DUOsoS9nGkS0asnzDkxfUj0tuB8Wer9nS1oeX%2BEYSunL0Q&rsv_enter=0&rsv_sug3=11&rsv_sug4=969&rsv_sug1=2&rsv_sug2=0&inputT=2758
+
+[7history scrollpos list]
+count=4
+0=0
+1=0
+2=0
+3=0
+
+[7history scale list]
+count=4
+0=100
+1=100
+2=100
+3=100
+
+[8]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6188
+parent=2480
+saveonclose=1
+position=6
+stack position=3
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=9
+max history=3
+current history=3
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[8history url]
+count=3
+0=http://softwaredownload.gitbooks.io/openwrt-fanqiang/content/ebook/03.6.html
+1=http://softwaredownload.gitbooks.io/openwrt-fanqiang/content/ebook/03.6.html
+2=http://softwaredownload.gitbooks.io/openwrt-fanqiang/content/ebook/03.6.html
+
+[8history document type]
+count=3
+0=6
+1=6
+2=6
+
+[8history title]
+count=3
+0=http://softwaredownload.gitbooks.io/openwrt-fanqiang/content/ebook/03.6.html
+1=null
+2=null
+
+[8history scrollpos list]
+count=3
+0=0
+1=0
+2=0
+
+[8history scale list]
+count=3
+0=100
+1=100
+2=100
+
+[9]
+x=0
+y=0
+w=1278
+h=958
+state=2
+restore to state=0
+id=6282
+parent=2480
+saveonclose=1
+position=7
+stack position=4
+active=0
+locked=0
+group=0
+group-active=0
+hidden=0
+type=1
+window id=26
+max history=3
+current history=3
+lists=history url,history document type,history title,history scrollpos list,history scale list
+encoding
+image mode=2
+user auto reload enable=0
+user auto reload sec user setting=60
+user auto reload only if expired=0
+output associated window=0
+CSS mode=1
+handheld mode=0
+scale=100
+show scrollbars=1
+read document=1
+
+[9history url]
+count=3
+0=opera:speeddial
+1=http://getpocket.com/a/queue/
+2=http://getpocket.com/a/queue/
+
+[9history document type]
+count=3
+0=6
+1=6
+2=6
+
+[9history title]
+count=3
+0=Speed Dial
+1=http://getpocket.com/a/queue/
+2=Pocket : My List
+
+[9history scrollpos list]
+count=3
+0=0
+1=0
+2=0
+
+[9history scale list]
+count=3
+0=100
+1=100
+2=100

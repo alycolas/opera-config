@@ -1,0 +1,248 @@
+From shlug@googlegroups.com Mon Dec 22 14:54:26 2014 1940
+X-Opera-Status: 050000000000000794549830a2000032b5080000800000317000000000000000010000000000000000000000000000000a0000000000000000
+X-Opera-Location: INBOX:4080
+Delivered-To: alycolas@gmail.com
+Received: by 10.216.171.71 with SMTP id q49csp913129wel; Sun, 21 Dec 2014
+ 13:31:30 -0800 (PST)
+Return-path: <shlug+bncBC64LQFFRYBRBLHY3SSAKGQEHJ56ULA@googlegroups.com>
+Received-SPF: pass (google.com: domain of shlug+bncBC64LQFFRYBRBLHY3SSAKGQEHJ56ULA@googlegroups.com designates 10.152.115.231 as permitted sender) client-ip=10.152.115.231
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of shlug+bncBC64LQFFRYBRBLHY3SSAKGQEHJ56ULA@googlegroups.com designates 10.152.115.231 as permitted sender) smtp.mail=shlug+bncBC64LQFFRYBRBLHY3SSAKGQEHJ56ULA@googlegroups.com; dkim=pass header.i=@googlegroups.com
+X-Received: from mr.google.com ([10.152.115.231]) by 10.152.115.231 with SMTP id jr7mr2281lab.12.1419197489855 (num_hops = 1); Sun, 21 Dec 2014 13:31:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googlegroups.com; s=20120806; h=mime-version:to:from:subject:message-id:date:content-type :x-original-sender:reply-to:precedence:mailing-list:list-id :list-post:list-help:list-archive:sender:list-subscribe :list-unsubscribe; bh=W6izm/rI8jCgGrudoiUHm4JU7bal3P9U4KU84bhMUaA=; b=Tcsmu8mH8aB3SxobS2rc9CxW0+qAbbV2XV7bJAZ1qZsYW008FaIXES26YZa0vOJw0E VHEdSURCfgmvWv8ef6+2TYbOmQcv+HlKCPz36yfojIr5idtRUQHtScOyrWIKaUpcRKZt lAQhW5viXdrfEaj6+U/otOXVWLm7DeRb3DOfRXSrUMouW3aB1dm0ibk634fN8aN6vvAb N2EftD9IAYBTN74wsf39MBJh+zCPHoLXLCyBbijCX6cJqxXQF415JqkkKdlGr6suixyp 3hIszYoA5oQlwG3j0eAxOXgBXtNjZiF2WNYMWPBsI+boRpJS6kMsTZqyaKIdb3d+63fw AmPA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googlegroups.com; s=20120806; h=mime-version:to:from:subject:message-id:date:content-type :x-original-sender:reply-to:precedence:mailing-list:list-id :list-post:list-help:list-archive:sender:list-subscribe :list-unsubscribe; bh=W6izm/rI8jCgGrudoiUHm4JU7bal3P9U4KU84bhMUaA=; b=Tcsmu8mH8aB3SxobS2rc9CxW0+qAbbV2XV7bJAZ1qZsYW008FaIXES26YZa0vOJw0E VHEdSURCfgmvWv8ef6+2TYbOmQcv+HlKCPz36yfojIr5idtRUQHtScOyrWIKaUpcRKZt lAQhW5viXdrfEaj6+U/otOXVWLm7DeRb3DOfRXSrUMouW3aB1dm0ibk634fN8aN6vvAb N2EftD9IAYBTN74wsf39MBJh+zCPHoLXLCyBbijCX6cJqxXQF415JqkkKdlGr6suixyp 3hIszYoA5oQlwG3j0eAxOXgBXtNjZiF2WNYMWPBsI+boRpJS6kMsTZqyaKIdb3d+63fw AmPA==
+X-Received: by 10.152.115.231 with SMTP id jr7mr2281lab.12.1419197489846; Sun, 21 Dec 2014 13:31:29 -0800 (PST)
+X-BeenThere: shlug@googlegroups.com
+Received: by 10.152.5.229 with SMTP id v5ls1115lav.11.gmail; Sun, 21 Dec 2014
+ 13:31:24 -0800 (PST)
+X-Received: by 10.112.235.231 with SMTP id up7mr2351963lbc.0.1419197484581; Sun, 21 Dec 2014 13:31:24 -0800 (PST)
+MIME-Version: 1.0
+To: =?gbk?B?vPLC1NWq0qrK1bz+yMs=?= <shlug@googlegroups.com>
+From: shlug@googlegroups.com
+Subject: =?gbk?B?W3NobHVnXSBzaGx1Z0Bnb29nbGVncm91cHMuY29tILXEvPLC1NWq0qogLSChsA==?=
+ =?gbk?B?Mbj21vfM4qGx09AgMrj2uPzQwg==?=
+Message-ID: <089e01160186ef00d1050ac0a927@google.com>
+Date: Mon, 22 Dec 2014 05:31:24 +0800
+Content-Type: multipart/alternative; boundary=0016367f94b4b30060474d22062
+X-Original-Sender: shlug@googlegroups.com
+Reply-To: shlug@googlegroups.com
+Precedence: list
+Mailing-List: list shlug@googlegroups.com; contact shlug+owners@googlegroups.com
+List-Id: shlug.googlegroups.com
+X-Google-Group-Id: 106915963581
+List-Post: <http://groups.google.com/group/shlug/post>, <mailto:shlug@googlegroups.com>
+List-Help: <http://groups.google.com/support/>, <mailto:shlug+help@googlegroups.com>
+List-Archive: <http://groups.google.com/group/shlug
+Sender: shlug@googlegroups.com
+List-Subscribe: <http://groups.google.com/group/shlug/subscribe>, <mailto:shlug+subscribe@googlegroups.com>
+List-Unsubscribe: <mailto:googlegroups-manage+106915963581+unsubscribe@googlegroups.com>, <http://groups.google.com/group/shlug/subscribe>
+
+--0016367f94b4b30060474d22062
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT0K5LuK5pel5Li76aKY5pGY6KaBCj09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09CgrnvqTnu4Q6IHNobHVnQGdvb2dsZWdyb3Vwcy5jb20K572R5Z2AOiAKICBodHRwczovL2dy
+b3Vwcy5nb29nbGUuY29tL2ZvcnVtLz91dG1fc291cmNlPWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls
+IyFmb3J1bS9zaGx1Zy90b3BpY3MKCgogIC0gUEhQ6YeM6LCD55So57O757uf5ZG95LukIFsyIOad
+oeabtOaWsF0KICAgIGh0dHA6Ly9ncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9zaGx1Zy90LzlmMzQ0
+ZWJjMTE3YTYwYjkKCgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrkuLvpopg6IFBIUOmHjOiwg+eUqOez
+u+e7n+WRveS7pArnvZHlnYA6IGh0dHA6Ly9ncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9zaGx1Zy90
+LzlmMzQ0ZWJjMTE3YTYwYjkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCi0tLS0tLS0tLS0g56ysIDEg
+5Liq77yI5YWxIDIg5Liq77yJIC0tLS0tLS0tLS0K5Y+R5Lu25Lq6OiBmZWlhbmR4cyA8eWl6aXlp
+bnRAZ21haWwuY29tPgrml6XmnJ86IERlYyAyMSAxMjo0NVBNICswODAwCue9keWdgDogaHR0cDov
+L2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVnL21zZy9lMzJkYmRiNmQ3YTUxMGFiCgromb3n
+hLZQSFDmmK/kuJbnlYzkuIrmnIDlpb3nmoTor63oqIDvvIzkvYbmmK9TSEVMTOmHjOeahOS4nOil
+v+W5suWYm+WIsFBIUOmHjOWOu+WGmS4uLg0KDQrkuo4yMDE05bm0MTLmnIgyMeaXpSAwOjQ3OjAx
+LEFS5YaZ5YiwOg0KCgotLS0tLS0tLS0tIOesrCAyIOS4qu+8iOWFsSAyIOS4qu+8iSAtLS0tLS0t
+LS0tCuWPkeS7tuS6ujog5L6d5LqRIDxsaWx5ZGp3Z0BnbWFpbC5jb20+CuaXpeacnzogRGVjIDIx
+IDAyOjIyUE0gKzA4MDAK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hs
+dWcvbXNnLzFjM2U3ODY0YWFkZmYxYjgKCk9uIFN1biwgRGVjIDIxLCAyMDE0IGF0IDEyOjQ3OjAx
+QU0gKzA4MDAsIEFSIHdyb3RlOg0KDQo+IOiHquW4pueahOWHoOS4qumDveS4jeaAjuS5iOihjO+8
+jHByb2Nfb3BlbuWLieW8uuWPr+S7peeUqO+8jOS4jei/h+S4jeaUr+aMgWxvZ2lu77yM6L+Y5b6X
+6Ieq5bex57uV44CCDQoNCgoKCgoKLS0K5oKo5pS25Yiw5q2k5pGY6KaB6YKu5Lu25piv5Zug5Li6
+5oKo6K6i6ZiF5LqG5q2k576k57uE55qE5pyA5paw5Yqo5oCB44CC5oKo5Y+v5Lul5Zyo576k57uE
+5oiQ5ZGY6LWE5qC86aG16Z2i5LiK5pu05pS56K6+572u77yaCiAgaHR0cHM6Ly9ncm91cHMuZ29v
+Z2xlLmNvbS9mb3J1bS8/dXRtX3NvdXJjZT1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbCMhZm9ydW0v
+c2hsdWcvam9pbgrjgIIK6KaB6YCA6K6i5q2k576k57uE5bm25YGc5q2i5o6l5pS26K+l576k57uE
+5Y+R5p2l55qE55S15a2Q6YKu5Lu277yM6K+35Y+R6YCB55S15a2Q6YKu5Lu25Yiwc2hsdWcrdW5z
+dWJzY3JpYmVAZ29vZ2xlZ3JvdXBzLmNvbeOAggoK
+--0016367f94b4b30060474d22062
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+
+<div style=3D"border:1px solid #d3d3d3;max-width:850px;font-family:Arial,sa=
+ns-serif;color:#000000;">
+  <div style=3D"background-color:#f5f5f5;padding:10px 20px">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%">
+      <tbody>
+        <tr>
+          <td style=3D"width:70%">
+            <span style=3D"font:18px/20px arial;color:#333333">
+              <a href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/shlug/topics
+" style=3D"text-decoration:none; color:#333333">
+              shlug@googlegroups.com</a>
+            </span>
+          </td>
+          <td style=3D"text-align:right;width:30%">
+            <span style=3D"font:20px/24px arial"><a style=3D"color:#dd4b39;=
+ text-decoration:none;" href=3D"https://groups.google.com/forum/?utm_source=
+=3Ddigest&utm_medium=3Demail/#!overview" target=3D"_blank">Google=E7=BD=91=
+=E4=B8=8A=E8=AE=BA=E5=9D=9B</a></span>
+          </td>
+          <td style=3D"width:32px;">
+            <a href=3D"https://groups.google.com/forum/?utm_source=3Ddigest=
+&utm_medium=3Demail/#!overview" target=3D"_blank"><img style=3D"border:0;ve=
+rtical-align:middle"
+                src=3D"http://www.google.com/images/icons/product/groups-32=
+.png"></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style=3D"padding:20px; background-color: #f5f5f5;">
+
+
+<div style=3D"font-family: arial; color: #222222; padding: 0px">
+  <a name=3D"digest_top" style=3D"font-size:21px;">
+ =20
+    =E4=BB=8A=E6=97=A5=E4=B8=BB=E9=A2=98=E6=91=98=E8=A6=81
+ =20
+ =20
+  </a><br>
+  <span style=3D"font-size:11px">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/shlug/topics
+">=E6=9F=A5=E7=9C=8B=E6=89=80=E6=9C=89=E4=B8=BB=E9=A2=98</a>
+  </span>
+</div>
+<div style=3D"font: 13px/18px arial; color:#222222; padding: 0px; margin-bo=
+ttom:30px">
+  <ul style=3D"margin-left:3px; padding-left:0px">
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_0">
+      PHP=E9=87=8C=E8=B0=83=E7=94=A8=E7=B3=BB=E7=BB=9F=E5=91=BD=E4=BB=A4</a=
+> -
+      <span style=3D"color:#777777">2 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+  </ul>
+</div>
+
+
+
+ =20
+  <a name=3D"group_thread_0"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/9f3=
+44ebc117a60b9?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      PHP=E9=87=8C=E8=B0=83=E7=94=A8=E7=B3=BB=E7=BB=9F=E5=91=BD=E4=BB=A4
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        feiandxs &lt;yiziyint@gmail.com&gt;: Dec 21 12:45PM +0800
+      </span>
+      <br /><br />
+      =E8=99=BD=E7=84=B6PHP=E6=98=AF=E4=B8=96=E7=95=8C=E4=B8=8A=E6=9C=80=E5=
+=A5=BD=E7=9A=84=E8=AF=AD=E8=A8=80=EF=BC=8C=E4=BD=86=E6=98=AFSHELL=E9=87=8C=
+=E7=9A=84=E4=B8=9C=E8=A5=BF=E5=B9=B2=E5=98=9B=E5=88=B0PHP=E9=87=8C=E5=8E=BB=
+=E5=86=99...<br />
+&nbsp;<br />
+=E4=BA=8E2014=E5=B9=B412=E6=9C=8821=E6=97=A5 0:47:01,AR=E5=86=99=E5=88=B0:<=
+br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/e32dbdb6d7a51=
+0ab?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        =E4=BE=9D=E4=BA=91 &lt;lilydjwg@gmail.com&gt;: Dec 21 02:22PM +0800
+      </span>
+      <br /><br />
+      On Sun, Dec 21, 2014 at 12:47:01AM +0800, AR wrote:<br />
+&nbsp;<br />
+&gt; =E8=87=AA=E5=B8=A6=E7=9A=84=E5=87=A0=E4=B8=AA=E9=83=BD=E4=B8=8D=E6=80=
+=8E=E4=B9=88=E8=A1=8C=EF=BC=8Cproc_open=E5=8B=89=E5=BC=BA=E5=8F=AF=E4=BB=A5=
+=E7=94=A8=EF=BC=8C=E4=B8=8D=E8=BF=87=E4=B8=8D=E6=94=AF=E6=8C=81login=EF=BC=
+=8C=E8=BF=98=E5=BE=97=E8=87=AA=E5=B7=B1=E7=BB=95=E3=80=82<br />
+&nbsp;<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/1c3e7864aadff=
+1b8?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+
+
+  </div>
+  <div style=3D"background-color: #f5f5f5;padding: 5px 20px;">
+  <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%">
+  <tbody><tr>
+    <td style=3D"padding-top:4px;font-family:arial,sans-serif;color:#636363=
+;font-size:11px">
+     =20
+      =E6=82=A8=E6=94=B6=E5=88=B0=E6=AD=A4=E6=91=98=E8=A6=81=E9=82=AE=E4=BB=
+=B6=E6=98=AF=E5=9B=A0=E4=B8=BA=E6=82=A8=E8=AE=A2=E9=98=85=E4=BA=86=E6=AD=A4=
+=E7=BE=A4=E7=BB=84=E7=9A=84=E6=9C=80=E6=96=B0=E5=8A=A8=E6=80=81=E3=80=82=E6=
+=82=A8=E5=8F=AF=E4=BB=A5=E5=9C=A8<a href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/shlug/join
+" style=3D"color:#1155cc;text-decoration:none">=E7=BE=A4=E7=BB=84=E6=88=90=
+=E5=91=98=E8=B5=84=E6=A0=BC=E9=A1=B5=E9=9D=A2</a>=E4=B8=8A=E6=9B=B4=E6=94=
+=B9=E8=AE=BE=E7=BD=AE=E3=80=82<br/>
+      =E8=A6=81=E9=80=80=E8=AE=A2=E6=AD=A4=E7=BE=A4=E7=BB=84=E5=B9=B6=E5=81=
+=9C=E6=AD=A2=E6=8E=A5=E6=94=B6=E6=AD=A4=E7=BE=A4=E7=BB=84=E7=9A=84=E7=94=B5=
+=E5=AD=90=E9=82=AE=E4=BB=B6=EF=BC=8C=E8=AF=B7=E5=8F=91=E9=80=81=E7=94=B5=E5=
+=AD=90=E9=82=AE=E4=BB=B6=E5=88=B0 <a href=3D"mailto:shlug+unsubscribe@googl=
+egroups.com">shlug+unsubscribe@googlegroups.com</a>=E3=80=82
+    </td>
+  </tr></tbody>
+  </table>
+  </div>
+</div>
+
+
+--0016367f94b4b30060474d22062--
+
+
+

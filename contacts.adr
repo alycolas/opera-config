@@ -528,14 +528,21 @@ Options: encoding = utf8, version=3
 	ICON=Contact0
 
 #CONTACT
-	ID=678
+	ID=86
 	NAME=alycolas@hotmail.com
 	CREATED=1417259534
 	MAIL=alycolas@hotmail.com
 	ICON=Contact0
 
+#CONTACT
+	ID=685
+	NAME=pxcdcjyk
+	CREATED=1421244335
+	MAIL=pxcdcjyk@163.com
+	ICON=Contact0
+
 #FOLDER
-	ID=86
+	ID=87
 	NAME=Trash
 	CREATED=1405954162
 	TRASH FOLDER=YES

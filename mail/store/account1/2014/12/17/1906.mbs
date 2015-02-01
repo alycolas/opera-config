@@ -1,0 +1,906 @@
+From shlug@googlegroups.com Thu Dec 18 09:05:46 2014 1906
+X-Opera-Status: 050000000000000772549298ea0000af92080000800000ae4900000000000000010000000000000000000000000000000a0000000000000000
+X-Opera-Location: INBOX:4061
+Delivered-To: alycolas@gmail.com
+Received: by 10.216.171.71 with SMTP id q49csp1632425wel; Wed, 17 Dec 2014
+ 13:28:14 -0800 (PST)
+Return-path: <shlug+bncBC64LQFFRYBRB2XKY6SAKGQEQO2W7GY@googlegroups.com>
+Received-SPF: pass (google.com: domain of shlug+bncBC64LQFFRYBRB2XKY6SAKGQEQO2W7GY@googlegroups.com designates 10.180.91.49 as permitted sender) client-ip=10.180.91.49
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of shlug+bncBC64LQFFRYBRB2XKY6SAKGQEQO2W7GY@googlegroups.com designates 10.180.91.49 as permitted sender) smtp.mail=shlug+bncBC64LQFFRYBRB2XKY6SAKGQEQO2W7GY@googlegroups.com; dkim=pass header.i=@googlegroups.com
+X-Received: from mr.google.com ([10.180.91.49]) by 10.180.91.49 with SMTP id cb17mr86588wib.14.1418851694090 (num_hops = 1); Wed, 17 Dec 2014 13:28:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googlegroups.com; s=20120806; h=mime-version:to:from:subject:message-id:date:content-type :x-original-sender:reply-to:precedence:mailing-list:list-id :list-post:list-help:list-archive:sender:list-subscribe :list-unsubscribe; bh=12xp5VrSmBxEjBHMKwzQx73wHt5CA5TrHp31oiYnNmo=; b=a6WSmO5dBeDU2lMN/OlBipTS4rRWtsqBLzFZaxawfpO+w8ROwyqGd+03XjEj+Xp1Ab lBpF2pkli1cVmOokFEDd6Jtb4MC0jHP4cy/hkv0vp6yuf42lhgK9Q92C2cTwjOWPjKrW QH+SOD1PxvnDQT0yJfBYrwYZI/0T8Mq+zkSlFSlB9kga9s69WdVLnbrbaOgyX3VNsPsv yaiCjZgStL7WP+BYiIsMHoBnMIcchW+S63R7RahaVyMIpm7bM5Pjt5BMs4/jmV4qBzR+ YVoesbOAOx+nepuucAUD1VfqUmcAk6bCQVaHBBNtVVXoKVm3syv8bp21zpAt0pbQnHhv tqkA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=googlegroups.com; s=20120806; h=mime-version:to:from:subject:message-id:date:content-type :x-original-sender:reply-to:precedence:mailing-list:list-id :list-post:list-help:list-archive:sender:list-subscribe :list-unsubscribe; bh=12xp5VrSmBxEjBHMKwzQx73wHt5CA5TrHp31oiYnNmo=; b=a6WSmO5dBeDU2lMN/OlBipTS4rRWtsqBLzFZaxawfpO+w8ROwyqGd+03XjEj+Xp1Ab lBpF2pkli1cVmOokFEDd6Jtb4MC0jHP4cy/hkv0vp6yuf42lhgK9Q92C2cTwjOWPjKrW QH+SOD1PxvnDQT0yJfBYrwYZI/0T8Mq+zkSlFSlB9kga9s69WdVLnbrbaOgyX3VNsPsv yaiCjZgStL7WP+BYiIsMHoBnMIcchW+S63R7RahaVyMIpm7bM5Pjt5BMs4/jmV4qBzR+ YVoesbOAOx+nepuucAUD1VfqUmcAk6bCQVaHBBNtVVXoKVm3syv8bp21zpAt0pbQnHhv tqkA==
+X-Received: by 10.180.91.49 with SMTP id cb17mr86588wib.14.1418851694079; Wed, 17 Dec 2014 13:28:14 -0800 (PST)
+X-BeenThere: shlug@googlegroups.com
+Received: by 10.180.103.167 with SMTP id fx7ls516832wib.25.gmail; Wed, 17 Dec
+ 2014 13:28:10 -0800 (PST)
+X-Received: by 10.194.95.74 with SMTP id di10mr6824824wjb.0.1418851690861; Wed, 17 Dec 2014 13:28:10 -0800 (PST)
+MIME-Version: 1.0
+To: =?gbk?B?vPLC1NWq0qrK1bz+yMs=?= <shlug@googlegroups.com>
+From: shlug@googlegroups.com
+Subject: =?gbk?B?W3NobHVnXSBzaGx1Z0Bnb29nbGVncm91cHMuY29tILXEvPLC1NWq0qogLSChsA==?=
+ =?gbk?B?Nrj21vfM4qGx09AgMTi49rj80MI=?=
+Message-ID: <047d7b604c1805d030050a7027af@google.com>
+Date: Thu, 18 Dec 2014 05:28:10 +0800
+Content-Type: multipart/alternative; boundary=0016367f94b4b30060474d22062
+X-Original-Sender: shlug@googlegroups.com
+Reply-To: shlug@googlegroups.com
+Precedence: list
+Mailing-List: list shlug@googlegroups.com; contact shlug+owners@googlegroups.com
+List-Id: shlug.googlegroups.com
+X-Google-Group-Id: 106915963581
+List-Post: <http://groups.google.com/group/shlug/post>, <mailto:shlug@googlegroups.com>
+List-Help: <http://groups.google.com/support/>, <mailto:shlug+help@googlegroups.com>
+List-Archive: <http://groups.google.com/group/shlug
+Sender: shlug@googlegroups.com
+List-Subscribe: <http://groups.google.com/group/shlug/subscribe>, <mailto:shlug+subscribe@googlegroups.com>
+List-Unsubscribe: <mailto:googlegroups-manage+106915963581+unsubscribe@googlegroups.com>, <http://groups.google.com/group/shlug/subscribe>
+
+--0016367f94b4b30060474d22062
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT0K5LuK5pel5Li76aKY5pGY6KaBCj09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09CgrnvqTnu4Q6IHNobHVnQGdvb2dsZWdyb3Vwcy5jb20K572R5Z2AOiAKICBodHRwczovL2dy
+b3Vwcy5nb29nbGUuY29tL2ZvcnVtLz91dG1fc291cmNlPWRpZ2VzdCZ1dG1fbWVkaXVtPWVtYWls
+IyFmb3J1bS9zaGx1Zy90b3BpY3MKCgogIC0g6YGH5Yiw5LiA5Liq5aWH5oCq55qE6Zeu6aKY77yM
+cHB0cOaXoOazleepv+mAj+i3r+eUseWZqCBbMTMg5p2h5pu05pawXQogICAgaHR0cDovL2dyb3Vw
+cy5nb29nbGUuY29tL2dyb3VwL3NobHVnL3QvNWYxYjA0YmI4N2U4MjlmYgogIC0gMjAxNC8xMi8x
+OCDlkIPlkIPllp3llp1IYWNraW5nIFRodXJzZGF5IE5pZ2h06IGa6aSQ5rS75YqoIGF0IEpBIFsx
+IOadoeabtOaWsF0KICAgIGh0dHA6Ly9ncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9zaGx1Zy90L2Q4
+MWJjYjExNDg3YTBkOTEKICAtIGN0YWdzL2NzY29wZeS5i+WklueahOWPpuS4gOS4quWlveS4nOil
+v0dMT0JBTCBbMSDmnaHmm7TmlrBdCiAgICBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAv
+c2hsdWcvdC9mYzYyYjQ1MWNkNDEwODQ4CiAgLSAyMDE05bm0MTHmnIjmnIjluqbmioDmnK/kuqTm
+tYHkvJrkuLvpopjlvoHlj6wgWzEg5p2h5pu05pawXQogICAgaHR0cDovL2dyb3Vwcy5nb29nbGUu
+Y29tL2dyb3VwL3NobHVnL3QvOTM5OWJjMTIyYmU5MWU0ZQogIC0g5aSn5a625pyJ5rKh5pyJ5pSv
+5oyBaHR0cHPnmoRDRE7ku4vnu43llYogWzEg5p2h5pu05pawXQogICAgaHR0cDovL2dyb3Vwcy5n
+b29nbGUuY29tL2dyb3VwL3NobHVnL3QvYTA1ZGZjMzY5MTM3Yjk0YwogIC0gQy9DKysg56iL5bqP
+57yW6K+R6ZO+5o6l5omA6YGH5Yiw55qE5aWH5oCq6Zeu6aKYIFsxIOadoeabtOaWsF0KICAgIGh0
+dHA6Ly9ncm91cHMuZ29vZ2xlLmNvbS9ncm91cC9zaGx1Zy90L2ZhZjkwNDE5YWY0YmU0YmUKCgo9
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PQrkuLvpopg6IOmBh+WIsOS4gOS4quWlh+aAqueahOmXrumimO+8
+jHBwdHDml6Dms5Xnqb/pgI/ot6/nlLHlmagK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5j
+b20vZ3JvdXAvc2hsdWcvdC81ZjFiMDRiYjg3ZTgyOWZiCj09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgot
+LS0tLS0tLS0tIOesrCAxIOS4qu+8iOWFsSAxMyDkuKrvvIkgLS0tLS0tLS0tLQrlj5Hku7bkuro6
+ICLmnLrmorDllK/niankuLvkuYkgOiBsaW5qdW5oYWxpZGEiIDxsaW5qdW5oYWxpZGFAZ21haWwu
+Y29tPgrml6XmnJ86IERlYyAxNyAxMDo1M1BNICswODAwCue9keWdgDogaHR0cDovL2dyb3Vwcy5n
+b29nbGUuY29tL2dyb3VwL3NobHVnL21zZy9kZWM2ZWM2MzFlY2FjYTE4CgrmiJHmlrDoo4Xkuobk
+uIDlj7BuYXPvvIzlronoo4UgaHR0cHM6Ly93d3cuZGlnaXRhbG9jZWFuLmNvbS9jb21tdW5pdHkv
+dHV0b3JpYWxzL2hvdy10by1zZXR1cC15b3VyLW93bi12cG4td2l0aC1wcHRwDQrorr7nva7kuoZw
+cHRw77yM5py65Zmo5pivdWJ1bnR1IHNlcnZlciAxNC4wNOOAgg0KDQrot6/nlLHlmajmmK/no4rn
+p5EgVjIuMC41MzM2CgotLS0tLS0tLS0tIOesrCAyIOS4qu+8iOWFsSAxMyDkuKrvvIkgLS0tLS0t
+LS0tLQrlj5Hku7bkuro6IEFscGhhIENoZW5nIDxobWFzdGVyd2FuZ0BnbWFpbC5jb20+CuaXpeac
+nzogRGVjIDE3IDEwOjMyQU0gLTA1MDAK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20v
+Z3JvdXAvc2hsdWcvbXNnLzYxM2I1YmYzNTY3NjE3MGEKCuacjeWKoeWZqOerr+eahGxvZ+S5n+i0
+tOWHuuadpe+8nw0KDQrkuYvliY3miJFGcmVlQlNE55SoaXBuYXTlgZpOQVTnmoTml7blgJnkuZ/m
+nInov4fnsbvkvLznmoTpl67popjvvIzkuZ/ljaHlnKhMQ1A6IHRpbWVvdXQgc2VuZGluZw0KQ29u
+ZmlnLVJlcXVlc3Rz5LqG77yM5pyA5ZCO5om+5Yiw55qE6Zeu6aKY5pivaXBuYXQKCi0tLS0tLS0t
+LS0g56ysIDMg5Liq77yI5YWxIDEzIOS4qu+8iSAtLS0tLS0tLS0tCuWPkeS7tuS6ujogcHlfemh1
+IDx4aWFuZmVuZy56aHVAZ21haWwuY29tPgrml6XmnJ86IERlYyAxNyAxMTo0OFBNICswODAwCue9
+keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVnL21zZy85YWJjYzg0YmYz
+MmZlYmIxCgrigJxuYXPlhoXnvZFJUOaYrzE5Mi4xNjguMTAuNjDvvIznm7TmjqXov55wcHRw5rKh
+5pyJ6Zeu6aKY44CC4oCdDQoNCuW6lOivpeaYr+i3r+eUseWZqOaKikdSReaKpeaWh+e7mVJFSkVD
+VOS6hu+8jOWPr+S7peWcqE5BU+S4iuaKk+WPluS4i+aKpeaWh+ivleS4i+eci+OAggoKLS0tLS0t
+LS0tLSDnrKwgNCDkuKrvvIjlhbEgMTMg5Liq77yJIC0tLS0tLS0tLS0K5Y+R5Lu25Lq6OiBweV96
+aHUgPHhpYW5mZW5nLnpodUBnbWFpbC5jb20+CuaXpeacnzogRGVjIDE3IDExOjUyUE0gKzA4MDAK
+572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvbXNnLzFlYWRjZTAx
+ZDNmNTI5YgoK4oCcRGVjIDE3IDIyOjQ5OjQ0IGhhbGlkYXMtTWFjQm9vay1Qcm8ubG9jYWwgcHBw
+ZFs0NTIxOF06IExDUDogdGltZW91dA0Kc2VuZGluZyBDb25maWctUmVxdWVzdHPigJ0NCg0K5a6i
+5oi356uvTENQIENvbmZpZyBSZXF1ZXN06ZO+6Lev5o6n5Yi25rKh5pyJ55u45bqU55qEQUNL77yM
+UFBQ5ouo5Y+35LiN5oiQ5Yqf44CCDQoNCg0KLS0gDQp6aHUNCgoKLS0tLS0tLS0tLSDnrKwgNSDk
+uKrvvIjlhbEgMTMg5Liq77yJIC0tLS0tLS0tLS0K5Y+R5Lu25Lq6OiBweV96aHUgPHhpYW5mZW5n
+LnpodUBnbWFpbC5jb20+CuaXpeacnzogRGVjIDE3IDExOjU1UE0gKzA4MDAK572R5Z2AOiBodHRw
+Oi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvbXNnL2NhNWJhMDRkNTFkZWU2MmIKCuim
+geaYr+iuvue9rui3r+eUsemYsueBq+Wimei+g+m6u+eDpu+8jOaenOaWrU9wZW5WUE7lkKfjgIIN
+Cg0KDQotLSANCnpodQ0KCgotLS0tLS0tLS0tIOesrCA2IOS4qu+8iOWFsSAxMyDkuKrvvIkgLS0t
+LS0tLS0tLQrlj5Hku7bkuro6ICLmnLrmorDllK/niankuLvkuYkgOiBsaW5qdW5oYWxpZGEiIDxs
+aW5qdW5oYWxpZGFAZ21haWwuY29tPgrml6XmnJ86IERlYyAxNyAxMTo1N1BNICswODAwCue9keWd
+gDogaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVnL21zZy9mY2RiYWRkZGVkMjIz
+MjVhCgpPcGVuVlBO5oCV5oCn6IO95LiN5aW977yM6KKr5aSW6Z2i55qE6Lev55Sx5bmy5o6J44CC
+44CCDQoKCi0tLS0tLS0tLS0g56ysIDcg5Liq77yI5YWxIDEzIOS4qu+8iSAtLS0tLS0tLS0tCuWP
+keS7tuS6ujogcHlfemh1IDx4aWFuZmVuZy56aHVAZ21haWwuY29tPgrml6XmnJ86IERlYyAxOCAx
+MjowMUFNICswODAwCue9keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVn
+L21zZy9mOTY4MjFjYTVlYWQ1Y2ZmCgpPcGVuVlBO6LWwVURQ5oiWVENQ77yM5Zyo6Ziy54Gr5aKZ
+5byA5Liq56uv5Y+j5bCx5aW95LqG44CCDQrmlbDmja7miqXmlofpg73otbDlupTnlKjnqIvluo/v
+vIzmgKfog73kuI3lpb3or7TvvIzlvpfnnIvlrp7pmYXnmoTmtYvor5XmlYjmnpzvvIzop4nlvpfl
+j6/ku6XkuIDor5XjgIINCk9uIERlYyAxNywgMjAxNCAxMTo1NyBQTSwKCi0tLS0tLS0tLS0g56ys
+IDgg5Liq77yI5YWxIDEzIOS4qu+8iSAtLS0tLS0tLS0tCuWPkeS7tuS6ujogIuacuuaisOWUr+eJ
+qeS4u+S5iSA6IGxpbmp1bmhhbGlkYSIgPGxpbmp1bmhhbGlkYUBnbWFpbC5jb20+CuaXpeacnzog
+RGVjIDE4IDEyOjA0QU0gKzA4MDAK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3Jv
+dXAvc2hsdWcvbXNnLzRlZDQ4OWNlYmNjNjYyMTgKCj4g5bqU6K+l5piv6Lev55Sx5Zmo5oqKR1JF
+5oql5paH57uZUkVKRUNU5LqG77yM5Y+v5Lul5ZyoTkFT5LiK5oqT5Y+W5LiL5oql5paH6K+V5LiL
+55yL44CCDQo+IOeMnOa1i1BQVFDvvIhUQ1DvvInog73mraPluLjov57mjqXvvIzkvYbmjqXkuIvm
+naXnmoRQUFDmjqfliLbmiqXmlofjgIFHUkXmlbDmja7miqXmloflsLHkuI3noa7lrprkuobjgIIK
+Ci0tLS0tLS0tLS0g56ysIDkg5Liq77yI5YWxIDEzIOS4qu+8iSAtLS0tLS0tLS0tCuWPkeS7tuS6
+ujogcHlfemh1IDx4aWFuZmVuZy56aHVAZ21haWwuY29tPgrml6XmnJ86IERlYyAxOCAxMjowN0FN
+ICswODAwCue9keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVnL21zZy84
+YjllNjE3NWJlOGU3Mjc4CgpPcGVuVlBO5Y+v5Lul6ZqP5oSP6K6+572u56uv5Y+j77yM55yf5b+D
+5LiN55So5ouF5b+D6KKr6Ziy54Gr5aKZ6L+H5ruk44CCDQpPbiBEZWMgMTgsIDIwMTQgMTI6MDQg
+QU0sICLmnLrmorDllK/niankuLvkuYkgOiBsaW5qdW5oYWxpZGEiIDxsaW5qdW5oYWxpZGFAZ21h
+aWwuY29tPg0Kd3JvdGU6DQoNCgoKLS0tLS0tLS0tLSDnrKwgMTAg5Liq77yI5YWxIDEzIOS4qu+8
+iSAtLS0tLS0tLS0tCuWPkeS7tuS6ujogIuacuuaisOWUr+eJqeS4u+S5iSA6IGxpbmp1bmhhbGlk
+YSIgPGxpbmp1bmhhbGlkYUBnbWFpbC5jb20+CuaXpeacnzogRGVjIDE4IDEyOjA5QU0gKzA4MDAK
+572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvbXNnLzhmNWZiOGU0
+MGFhNGZiMDMKCj4gT3BlblZQTuWPr+S7pemaj+aEj+iuvue9ruerr+WPo++8jOecn+W/g+S4jeeU
+qOaLheW/g+iiq+mYsueBq+Wimei/h+a7pOOAgg0KCgotLS0tLS0tLS0tIOesrCAxMSDkuKrvvIjl
+hbEgMTMg5Liq77yJIC0tLS0tLS0tLS0K5Y+R5Lu25Lq6OiBweV96aHUgPHhpYW5mZW5nLnpodUBn
+bWFpbC5jb20+CuaXpeacnzogRGVjIDE4IDEyOjE2QU0gKzA4MDAK572R5Z2AOiBodHRwOi8vZ3Jv
+dXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvbXNnLzk0ODlmZWJmMjRmY2M3MmMKClBQUOaKpeWP
+t+S4jeaIkOWKn++8jOaNokwyVFDlupTor6XkuZ/kuIDmoLfjgIINCkwyVFDotbBVRFArUFBQ44CC
+DQpPbiBEZWMgMTgsIDIwMTQgMTI6MDkgQU0sICLmnLrmorDllK/niankuLvkuYkgOiBsaW5qdW5o
+YWxpZGEiIDxsaW5qdW5oYWxpZGFAZ21haWwuY29tPg0Kd3JvdGU6DQoNCgoKLS0tLS0tLS0tLSDn
+rKwgMTIg5Liq77yI5YWxIDEzIOS4qu+8iSAtLS0tLS0tLS0tCuWPkeS7tuS6ujogIuacuuaisOWU
+r+eJqeS4u+S5iSA6IGxpbmp1bmhhbGlkYSIgPGxpbmp1bmhhbGlkYUBnbWFpbC5jb20+CuaXpeac
+nzogRGVjIDE4IDEyOjI1QU0gKzA4MDAK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20v
+Z3JvdXAvc2hsdWcvbXNnLzU2YmVhMjZiZTY0MGU1NTQKCj4gUFBQ5oql5Y+35LiN5oiQ5Yqf77yM
+5o2iTDJUUOW6lOivpeS5n+S4gOagt+OAgg0KPiBMMlRQ6LWwVURQK1BQUOOAgg0KDQoNCumCo+S5
+iOeci+i1t+adpeWPquiDveeUqG9wZW52cG7kuobjgILjgIINCg0KLS0gDQoNCkNvZGVyLCBHYW1l
+ciwgUmVhZGVyLg0KCgotLS0tLS0tLS0tIOesrCAxMyDkuKrvvIjlhbEgMTMg5Liq77yJIC0tLS0t
+LS0tLS0K5Y+R5Lu25Lq6OiBweV96aHUgPHhpYW5mZW5nLnpodUBnbWFpbC5jb20+CuaXpeacnzog
+RGVjIDE4IDEyOjI1QU0gKzA4MDAK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3Jv
+dXAvc2hsdWcvbXNnL2VlMDQ4YjhlMDlhZjRiMzQKCuivleivlUwyVFDlkKfvvIzliJrliJrmiJHo
+r7TnmoTkuI3lr7njgIINCgoKCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuS4u+mimDogMjAxNC8xMi8x
+OCDlkIPlkIPllp3llp1IYWNraW5nIFRodXJzZGF5IE5pZ2h06IGa6aSQ5rS75YqoIGF0IEpBCue9
+keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVnL3QvZDgxYmNiMTE0ODdh
+MGQ5MQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PQoKLS0tLS0tLS0tLSDnrKwgMSDkuKrvvIjlhbEgMSDk
+uKrvvIkgLS0tLS0tLS0tLQrlj5Hku7bkuro6IEZyYW5rX1h1IDxmcmFua0BzaGx1Zy5vcmc+CuaX
+peacnzogRGVjIDE3IDA1OjI3UE0gKzA4MDAK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5j
+b20vZ3JvdXAvc2hsdWcvbXNnLzJkNjNlYmFkYzFjOTc3OGQKCuW6l+WQje+8mkpBIENhZmUNCueC
+ueivhO+8mmh0dHA6Ly93d3cuZGlhbnBpbmcuY29tL3Nob3AvNTE2OTY4NQ0K5Zyw5Z2A77ya6Z2Z
+5a6J5Yy65Y2X5Lqs6KW/6LevMTY0OeWPt+mdmeWuieWFrOWbreWGhSjov5HpnZnlronlhazlm60p
+CgoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT0K5Li76aKYOiBjdGFncy9jc2NvcGXkuYvlpJbnmoTlj6bk
+uIDkuKrlpb3kuJzopb9HTE9CQUwK572R5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3Jv
+dXAvc2hsdWcvdC9mYzYyYjQ1MWNkNDEwODQ4Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgotLS0tLS0t
+LS0tIOesrCAxIOS4qu+8iOWFsSAxIOS4qu+8iSAtLS0tLS0tLS0tCuWPkeS7tuS6ujogZGF2aWQg
+cHUgPHB1bHEudXN0Y0BnbWFpbC5jb20+CuaXpeacnzogRGVjIDE3IDAyOjUwUE0gKzA4MDAK572R
+5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvbXNnLzI4NmQ2ZTM5ZDcx
+NGU0ZjMKCmh0dHA6Ly93d3cuZ251Lm9yZy9zb2Z0d2FyZS9nbG9iYWwvZ2xvYmFsZG9jX3RvYy5o
+dG1sDQoNCui/mei0p+eUqOadpeeUn+aIkOWkp+inhOaooeeahOS7o+eggXhyZWZz5L6b5rWP6KeI
+5Zmo5rWP6KeI55yf5piv5aSq6LWe5LqG77yM5q+UT3Blbkdyb2vnnIHkuotO5aSa5YCN77yBDQoN
+Ci0tIA0KICgpICAgQVNDSUkgUmliYm9uIENhbXBhaWduCgoKPT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K
+5Li76aKYOiAyMDE05bm0MTHmnIjmnIjluqbmioDmnK/kuqTmtYHkvJrkuLvpopjlvoHlj6wK572R
+5Z2AOiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvdC85Mzk5YmMxMjJiZTkx
+ZTRlCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09CgotLS0tLS0tLS0tIOesrCAxIOS4qu+8iOWFsSAxIOS4
+qu+8iSAtLS0tLS0tLS0tCuWPkeS7tuS6ujogRnJhbmtfWHUgPGZyYW5rQHNobHVnLm9yZz4K5pel
+5pyfOiBEZWMgMTcgMTI6MDNQTSArMDgwMArnvZHlnYA6IGh0dHA6Ly9ncm91cHMuZ29vZ2xlLmNv
+bS9ncm91cC9zaGx1Zy9tc2cvZTk2MzliODgwYTZiNTQ2ZAoK5Zug5Li65rKS5pyJ6Laz5aSg5aSa
+55qE6aKY55uu77yM5pys5pyI5LuN54S25rKh5pyJ5rS75Yqo4oCm4oCmDQoNCuWcqCAyMDE05bm0
+MTLmnIgxNeaXpSDkuIrljYgxMTozN++8jFNoZWxsIFh1IDxzaGVsbDkwOTA5MEBnbWFpbC5jb20+
+5YaZ6YGT77yaDQoKCgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrkuLvpopg6IOWkp+Wutuacieayoeac
+ieaUr+aMgWh0dHBz55qEQ0RO5LuL57uN5ZWKCue9keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUu
+Y29tL2dyb3VwL3NobHVnL3QvYTA1ZGZjMzY5MTM3Yjk0Ywo9PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoK
+LS0tLS0tLS0tLSDnrKwgMSDkuKrvvIjlhbEgMSDkuKrvvIkgLS0tLS0tLS0tLQrlj5Hku7bkuro6
+IFBlcnJ5IDxwZXJyeXdreUBnbWFpbC5jb20+CuaXpeacnzogRGVjIDE3IDAzOjU5QU0K572R5Z2A
+OiBodHRwOi8vZ3JvdXBzLmdvb2dsZS5jb20vZ3JvdXAvc2hsdWcvbXNnL2Q1Yzk0M2IyZDUyY2Ez
+NTIKCuWPiOaLjeS6keS5n+aUr+aMgWh0dHBzDQoNCgoKCj09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuS4
+u+mimDogQy9DKysg56iL5bqP57yW6K+R6ZO+5o6l5omA6YGH5Yiw55qE5aWH5oCq6Zeu6aKYCue9
+keWdgDogaHR0cDovL2dyb3Vwcy5nb29nbGUuY29tL2dyb3VwL3NobHVnL3QvZmFmOTA0MTlhZjRi
+ZTRiZQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PQoKLS0tLS0tLS0tLSDnrKwgMSDkuKrvvIjlhbEgMSDk
+uKrvvIkgLS0tLS0tLS0tLQrlj5Hku7bkuro6IFBsYWluX1RleHQgPHJlc2F0aW9uQGdtYWlsLmNv
+bT4K5pel5pyfOiBEZWMgMTcgMDg6MDhBTSArMDgwMArnvZHlnYA6IGh0dHA6Ly9ncm91cHMuZ29v
+Z2xlLmNvbS9ncm91cC9zaGx1Zy9tc2cvMzdkYTdjNThhODJjNWJmMAoKDQo+IOebruWJjeeMnOaD
+s+aHieipsuaYryBpbml0KCkg6LefIERvd25sb2FkZXI6OmZhY3RGdW5jcyDln7fooYzpoIbluo/n
+moTllY/poYwuIGluaXQoKSDooqvlronmjpLlnKggRG93bmxvYWRlcjo6ZmFjdEZ1bmNzIA0KPiDl
+iJ3lp4vliY3ln7fooYwsIOWwseacieWPr+iDveeZvOeUnyBzZWdmYXVsdC4g5L+u5pS56YGOIGRv
+d25sb2FkZXIuaCAmCgoKCgoKLS0K5oKo5pS25Yiw5q2k5pGY6KaB6YKu5Lu25piv5Zug5Li65oKo
+6K6i6ZiF5LqG5q2k576k57uE55qE5pyA5paw5Yqo5oCB44CC5oKo5Y+v5Lul5Zyo576k57uE5oiQ
+5ZGY6LWE5qC86aG16Z2i5LiK5pu05pS56K6+572u77yaCiAgaHR0cHM6Ly9ncm91cHMuZ29vZ2xl
+LmNvbS9mb3J1bS8/dXRtX3NvdXJjZT1kaWdlc3QmdXRtX21lZGl1bT1lbWFpbCMhZm9ydW0vc2hs
+dWcvam9pbgrjgIIK6KaB6YCA6K6i5q2k576k57uE5bm25YGc5q2i5o6l5pS26K+l576k57uE5Y+R
+5p2l55qE55S15a2Q6YKu5Lu277yM6K+35Y+R6YCB55S15a2Q6YKu5Lu25Yiwc2hsdWcrdW5zdWJz
+Y3JpYmVAZ29vZ2xlZ3JvdXBzLmNvbeOAggoK
+--0016367f94b4b30060474d22062
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+
+<div style=3D"border:1px solid #d3d3d3;max-width:850px;font-family:Arial,sa=
+ns-serif;color:#000000;">
+  <div style=3D"background-color:#f5f5f5;padding:10px 20px">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%">
+      <tbody>
+        <tr>
+          <td style=3D"width:70%">
+            <span style=3D"font:18px/20px arial;color:#333333">
+              <a href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/shlug/topics
+" style=3D"text-decoration:none; color:#333333">
+              shlug@googlegroups.com</a>
+            </span>
+          </td>
+          <td style=3D"text-align:right;width:30%">
+            <span style=3D"font:20px/24px arial"><a style=3D"color:#dd4b39;=
+ text-decoration:none;" href=3D"https://groups.google.com/forum/?utm_source=
+=3Ddigest&utm_medium=3Demail/#!overview" target=3D"_blank">Google=E7=BD=91=
+=E4=B8=8A=E8=AE=BA=E5=9D=9B</a></span>
+          </td>
+          <td style=3D"width:32px;">
+            <a href=3D"https://groups.google.com/forum/?utm_source=3Ddigest=
+&utm_medium=3Demail/#!overview" target=3D"_blank"><img style=3D"border:0;ve=
+rtical-align:middle"
+                src=3D"http://www.google.com/images/icons/product/groups-32=
+.png"></a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div style=3D"padding:20px; background-color: #f5f5f5;">
+
+
+<div style=3D"font-family: arial; color: #222222; padding: 0px">
+  <a name=3D"digest_top" style=3D"font-size:21px;">
+ =20
+    =E4=BB=8A=E6=97=A5=E4=B8=BB=E9=A2=98=E6=91=98=E8=A6=81
+ =20
+ =20
+  </a><br>
+  <span style=3D"font-size:11px">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/shlug/topics
+">=E6=9F=A5=E7=9C=8B=E6=89=80=E6=9C=89=E4=B8=BB=E9=A2=98</a>
+  </span>
+</div>
+<div style=3D"font: 13px/18px arial; color:#222222; padding: 0px; margin-bo=
+ttom:30px">
+  <ul style=3D"margin-left:3px; padding-left:0px">
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_0">
+      =E9=81=87=E5=88=B0=E4=B8=80=E4=B8=AA=E5=A5=87=E6=80=AA=E7=9A=84=E9=97=
+=AE=E9=A2=98=EF=BC=8Cpptp=E6=97=A0=E6=B3=95=E7=A9=BF=E9=80=8F=E8=B7=AF=E7=
+=94=B1=E5=99=A8</a> -
+      <span style=3D"color:#777777">13 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_1">
+      2014/12/18 =E5=90=83=E5=90=83=E5=96=9D=E5=96=9DHacking Thursday Night=
+=E8=81=9A=E9=A4=90=E6=B4=BB=E5=8A=A8 at JA</a> -
+      <span style=3D"color:#777777">1 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_2">
+      ctags/cscope=E4=B9=8B=E5=A4=96=E7=9A=84=E5=8F=A6=E4=B8=80=E4=B8=AA=E5=
+=A5=BD=E4=B8=9C=E8=A5=BFGLOBAL</a> -
+      <span style=3D"color:#777777">1 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_3">
+      2014=E5=B9=B411=E6=9C=88=E6=9C=88=E5=BA=A6=E6=8A=80=E6=9C=AF=E4=BA=A4=
+=E6=B5=81=E4=BC=9A=E4=B8=BB=E9=A2=98=E5=BE=81=E5=8F=AC</a> -
+      <span style=3D"color:#777777">1 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_4">
+      =E5=A4=A7=E5=AE=B6=E6=9C=89=E6=B2=A1=E6=9C=89=E6=94=AF=E6=8C=81https=
+=E7=9A=84CDN=E4=BB=8B=E7=BB=8D=E5=95=8A</a> -
+      <span style=3D"color:#777777">1 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+    <li>
+      <a style=3D"color:#1155cc;text-decoration:none" href=3D"#group_thread=
+_5">
+      C/C++ =E7=A8=8B=E5=BA=8F=E7=BC=96=E8=AF=91=E9=93=BE=E6=8E=A5=E6=89=80=
+=E9=81=87=E5=88=B0=E7=9A=84=E5=A5=87=E6=80=AA=E9=97=AE=E9=A2=98</a> -
+      <span style=3D"color:#777777">1 =E6=9D=A1=E6=9B=B4=E6=96=B0</span>
+    </li>
+ =20
+  </ul>
+</div>
+
+
+
+ =20
+  <a name=3D"group_thread_0"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/5f1=
+b04bb87e829fb?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      =E9=81=87=E5=88=B0=E4=B8=80=E4=B8=AA=E5=A5=87=E6=80=AA=E7=9A=84=E9=97=
+=AE=E9=A2=98=EF=BC=8Cpptp=E6=97=A0=E6=B3=95=E7=A9=BF=E9=80=8F=E8=B7=AF=E7=
+=94=B1=E5=99=A8
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=BB=E4=B9=89 : linj=
+unhalida&quot; &lt;linjunhalida@gmail.com&gt;: Dec 17 10:53PM +0800
+      </span>
+      <br /><br />
+      =E6=88=91=E6=96=B0=E8=A3=85=E4=BA=86=E4=B8=80=E5=8F=B0nas=EF=BC=8C=E5=
+=AE=89=E8=A3=85 <a href=3D"https://www.digitalocean.com/community/tutorials=
+/how-to-setup-your-own-vpn-with-pptp">https://www.digitalocean.com/communit=
+y/tutorials/how-to-setup-your-own-vpn-with-pptp</a><br />
+=E8=AE=BE=E7=BD=AE=E4=BA=86pptp=EF=BC=8C=E6=9C=BA=E5=99=A8=E6=98=AFubuntu s=
+erver 14.04=E3=80=82<br />
+&nbsp;<br />
+=E8=B7=AF=E7=94=B1=E5=99=A8=E6=98=AF=E7=A3=8A=E7=A7=91 V2.0.5336
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/dec6ec631ecac=
+a18?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        Alpha Cheng &lt;hmasterwang@gmail.com&gt;: Dec 17 10:32AM -0500
+      </span>
+      <br /><br />
+      =E6=9C=8D=E5=8A=A1=E5=99=A8=E7=AB=AF=E7=9A=84log=E4=B9=9F=E8=B4=B4=E5=
+=87=BA=E6=9D=A5=EF=BC=9F<br />
+&nbsp;<br />
+=E4=B9=8B=E5=89=8D=E6=88=91FreeBSD=E7=94=A8ipnat=E5=81=9ANAT=E7=9A=84=E6=97=
+=B6=E5=80=99=E4=B9=9F=E6=9C=89=E8=BF=87=E7=B1=BB=E4=BC=BC=E7=9A=84=E9=97=AE=
+=E9=A2=98=EF=BC=8C=E4=B9=9F=E5=8D=A1=E5=9C=A8LCP: timeout sending<br />
+Config-Requests=E4=BA=86=EF=BC=8C=E6=9C=80=E5=90=8E=E6=89=BE=E5=88=B0=E7=9A=
+=84=E9=97=AE=E9=A2=98=E6=98=AFipnat
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/613b5bf356761=
+70a?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 17 11:48PM +0800
+      </span>
+      <br /><br />
+      =E2=80=9Cnas=E5=86=85=E7=BD=91IP=E6=98=AF192.168.10.60=EF=BC=8C=E7=9B=
+=B4=E6=8E=A5=E8=BF=9Epptp=E6=B2=A1=E6=9C=89=E9=97=AE=E9=A2=98=E3=80=82=E2=
+=80=9D<br />
+&nbsp;<br />
+=E5=BA=94=E8=AF=A5=E6=98=AF=E8=B7=AF=E7=94=B1=E5=99=A8=E6=8A=8AGRE=E6=8A=A5=
+=E6=96=87=E7=BB=99REJECT=E4=BA=86=EF=BC=8C=E5=8F=AF=E4=BB=A5=E5=9C=A8NAS=E4=
+=B8=8A=E6=8A=93=E5=8F=96=E4=B8=8B=E6=8A=A5=E6=96=87=E8=AF=95=E4=B8=8B=E7=9C=
+=8B=E3=80=82
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/9abcc84bf32fe=
+bb1?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 17 11:52PM +0800
+      </span>
+      <br /><br />
+      =E2=80=9CDec 17 22:49:44 halidas-MacBook-Pro.local pppd[45218]: LCP: =
+timeout<br />
+sending Config-Requests=E2=80=9D<br />
+&nbsp;<br />
+=E5=AE=A2=E6=88=B7=E7=AB=AFLCP Config Request=E9=93=BE=E8=B7=AF=E6=8E=A7=E5=
+=88=B6=E6=B2=A1=E6=9C=89=E7=9B=B8=E5=BA=94=E7=9A=84ACK=EF=BC=8CPPP=E6=8B=A8=
+=E5=8F=B7=E4=B8=8D=E6=88=90=E5=8A=9F=E3=80=82<br />
+&nbsp;<br />
+&nbsp;<br />
+-- <br />
+zhu<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/1eadce01d3f52=
+9b?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 17 11:55PM +0800
+      </span>
+      <br /><br />
+      =E8=A6=81=E6=98=AF=E8=AE=BE=E7=BD=AE=E8=B7=AF=E7=94=B1=E9=98=B2=E7=81=
+=AB=E5=A2=99=E8=BE=83=E9=BA=BB=E7=83=A6=EF=BC=8C=E6=9E=9C=E6=96=ADOpenVPN=
+=E5=90=A7=E3=80=82<br />
+&nbsp;<br />
+&nbsp;<br />
+-- <br />
+zhu<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/ca5ba04d51dee=
+62b?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=BB=E4=B9=89 : linj=
+unhalida&quot; &lt;linjunhalida@gmail.com&gt;: Dec 17 11:57PM +0800
+      </span>
+      <br /><br />
+      OpenVPN=E6=80=95=E6=80=A7=E8=83=BD=E4=B8=8D=E5=A5=BD=EF=BC=8C=E8=A2=
+=AB=E5=A4=96=E9=9D=A2=E7=9A=84=E8=B7=AF=E7=94=B1=E5=B9=B2=E6=8E=89=E3=80=82=
+=E3=80=82<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/fcdbaddded223=
+25a?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 18 12:01AM +0800
+      </span>
+      <br /><br />
+      OpenVPN=E8=B5=B0UDP=E6=88=96TCP=EF=BC=8C=E5=9C=A8=E9=98=B2=E7=81=AB=
+=E5=A2=99=E5=BC=80=E4=B8=AA=E7=AB=AF=E5=8F=A3=E5=B0=B1=E5=A5=BD=E4=BA=86=E3=
+=80=82<br />
+=E6=95=B0=E6=8D=AE=E6=8A=A5=E6=96=87=E9=83=BD=E8=B5=B0=E5=BA=94=E7=94=A8=E7=
+=A8=8B=E5=BA=8F=EF=BC=8C=E6=80=A7=E8=83=BD=E4=B8=8D=E5=A5=BD=E8=AF=B4=EF=BC=
+=8C=E5=BE=97=E7=9C=8B=E5=AE=9E=E9=99=85=E7=9A=84=E6=B5=8B=E8=AF=95=E6=95=88=
+=E6=9E=9C=EF=BC=8C=E8=A7=89=E5=BE=97=E5=8F=AF=E4=BB=A5=E4=B8=80=E8=AF=95=E3=
+=80=82<br />
+On Dec 17, 2014 11:57 PM,
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/f96821ca5ead5=
+cff?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=BB=E4=B9=89 : linj=
+unhalida&quot; &lt;linjunhalida@gmail.com&gt;: Dec 18 12:04AM +0800
+      </span>
+      <br /><br />
+      &gt; =E5=BA=94=E8=AF=A5=E6=98=AF=E8=B7=AF=E7=94=B1=E5=99=A8=E6=8A=8AG=
+RE=E6=8A=A5=E6=96=87=E7=BB=99REJECT=E4=BA=86=EF=BC=8C=E5=8F=AF=E4=BB=A5=E5=
+=9C=A8NAS=E4=B8=8A=E6=8A=93=E5=8F=96=E4=B8=8B=E6=8A=A5=E6=96=87=E8=AF=95=E4=
+=B8=8B=E7=9C=8B=E3=80=82<br />
+&gt; =E7=8C=9C=E6=B5=8BPPTP=EF=BC=88TCP=EF=BC=89=E8=83=BD=E6=AD=A3=E5=B8=B8=
+=E8=BF=9E=E6=8E=A5=EF=BC=8C=E4=BD=86=E6=8E=A5=E4=B8=8B=E6=9D=A5=E7=9A=84PPP=
+=E6=8E=A7=E5=88=B6=E6=8A=A5=E6=96=87=E3=80=81GRE=E6=95=B0=E6=8D=AE=E6=8A=A5=
+=E6=96=87=E5=B0=B1=E4=B8=8D=E7=A1=AE=E5=AE=9A=E4=BA=86=E3=80=82
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/4ed489cebcc66=
+218?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 18 12:07AM +0800
+      </span>
+      <br /><br />
+      OpenVPN=E5=8F=AF=E4=BB=A5=E9=9A=8F=E6=84=8F=E8=AE=BE=E7=BD=AE=E7=AB=
+=AF=E5=8F=A3=EF=BC=8C=E7=9C=9F=E5=BF=83=E4=B8=8D=E7=94=A8=E6=8B=85=E5=BF=83=
+=E8=A2=AB=E9=98=B2=E7=81=AB=E5=A2=99=E8=BF=87=E6=BB=A4=E3=80=82<br />
+On Dec 18, 2014 12:04 AM, &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=
+=BB=E4=B9=89 : linjunhalida&quot; &lt;linjunhalida@gmail.com&gt;<br />
+wrote:<br />
+&nbsp;<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/8b9e6175be8e7=
+278?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=BB=E4=B9=89 : linj=
+unhalida&quot; &lt;linjunhalida@gmail.com&gt;: Dec 18 12:09AM +0800
+      </span>
+      <br /><br />
+      &gt; OpenVPN=E5=8F=AF=E4=BB=A5=E9=9A=8F=E6=84=8F=E8=AE=BE=E7=BD=AE=E7=
+=AB=AF=E5=8F=A3=EF=BC=8C=E7=9C=9F=E5=BF=83=E4=B8=8D=E7=94=A8=E6=8B=85=E5=BF=
+=83=E8=A2=AB=E9=98=B2=E7=81=AB=E5=A2=99=E8=BF=87=E6=BB=A4=E3=80=82<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/8f5fb8e40aa4f=
+b03?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 18 12:16AM +0800
+      </span>
+      <br /><br />
+      PPP=E6=8A=A5=E5=8F=B7=E4=B8=8D=E6=88=90=E5=8A=9F=EF=BC=8C=E6=8D=A2L2T=
+P=E5=BA=94=E8=AF=A5=E4=B9=9F=E4=B8=80=E6=A0=B7=E3=80=82<br />
+L2TP=E8=B5=B0UDP+PPP=E3=80=82<br />
+On Dec 18, 2014 12:09 AM, &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=
+=BB=E4=B9=89 : linjunhalida&quot; &lt;linjunhalida@gmail.com&gt;<br />
+wrote:<br />
+&nbsp;<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/9489febf24fcc=
+72c?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        &quot;=E6=9C=BA=E6=A2=B0=E5=94=AF=E7=89=A9=E4=B8=BB=E4=B9=89 : linj=
+unhalida&quot; &lt;linjunhalida@gmail.com&gt;: Dec 18 12:25AM +0800
+      </span>
+      <br /><br />
+      &gt; PPP=E6=8A=A5=E5=8F=B7=E4=B8=8D=E6=88=90=E5=8A=9F=EF=BC=8C=E6=8D=
+=A2L2TP=E5=BA=94=E8=AF=A5=E4=B9=9F=E4=B8=80=E6=A0=B7=E3=80=82<br />
+&gt; L2TP=E8=B5=B0UDP+PPP=E3=80=82<br />
+&nbsp;<br />
+&nbsp;<br />
+=E9=82=A3=E4=B9=88=E7=9C=8B=E8=B5=B7=E6=9D=A5=E5=8F=AA=E8=83=BD=E7=94=A8ope=
+nvpn=E4=BA=86=E3=80=82=E3=80=82<br />
+&nbsp;<br />
+-- <br />
+&nbsp;<br />
+Coder, Gamer, Reader.<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/56bea26be640e=
+554?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        py_zhu &lt;xianfeng.zhu@gmail.com&gt;: Dec 18 12:25AM +0800
+      </span>
+      <br /><br />
+      =E8=AF=95=E8=AF=95L2TP=E5=90=A7=EF=BC=8C=E5=88=9A=E5=88=9A=E6=88=91=
+=E8=AF=B4=E7=9A=84=E4=B8=8D=E5=AF=B9=E3=80=82<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/ee048b8e09af4=
+b34?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+ =20
+  <a name=3D"group_thread_1"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/d81=
+bcb11487a0d91?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      2014/12/18 =E5=90=83=E5=90=83=E5=96=9D=E5=96=9DHacking Thursday Night=
+=E8=81=9A=E9=A4=90=E6=B4=BB=E5=8A=A8 at JA
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        Frank_Xu &lt;frank@shlug.org&gt;: Dec 17 05:27PM +0800
+      </span>
+      <br /><br />
+      =E5=BA=97=E5=90=8D=EF=BC=9AJA Cafe<br />
+=E7=82=B9=E8=AF=84=EF=BC=9A<a href=3D"http://www.dianping.com/shop/5169685"=
+>http://www.dianping.com/shop/5169685</a><br />
+=E5=9C=B0=E5=9D=80=EF=BC=9A=E9=9D=99=E5=AE=89=E5=8C=BA=E5=8D=97=E4=BA=AC=E8=
+=A5=BF=E8=B7=AF1649=E5=8F=B7=E9=9D=99=E5=AE=89=E5=85=AC=E5=9B=AD=E5=86=85(=
+=E8=BF=91=E9=9D=99=E5=AE=89=E5=85=AC=E5=9B=AD)
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/2d63ebadc1c97=
+78d?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+ =20
+  <a name=3D"group_thread_2"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/fc6=
+2b451cd410848?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      ctags/cscope=E4=B9=8B=E5=A4=96=E7=9A=84=E5=8F=A6=E4=B8=80=E4=B8=AA=E5=
+=A5=BD=E4=B8=9C=E8=A5=BFGLOBAL
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        david pu &lt;pulq.ustc@gmail.com&gt;: Dec 17 02:50PM +0800
+      </span>
+      <br /><br />
+      <a href=3D"http://www.gnu.org/software/global/globaldoc_toc.html">htt=
+p://www.gnu.org/software/global/globaldoc_toc.html</a><br />
+&nbsp;<br />
+=E8=BF=99=E8=B4=A7=E7=94=A8=E6=9D=A5=E7=94=9F=E6=88=90=E5=A4=A7=E8=A7=84=E6=
+=A8=A1=E7=9A=84=E4=BB=A3=E7=A0=81xrefs=E4=BE=9B=E6=B5=8F=E8=A7=88=E5=99=A8=
+=E6=B5=8F=E8=A7=88=E7=9C=9F=E6=98=AF=E5=A4=AA=E8=B5=9E=E4=BA=86=EF=BC=8C=E6=
+=AF=94OpenGrok=E7=9C=81=E4=BA=8BN=E5=A4=9A=E5=80=8D=EF=BC=81<br />
+&nbsp;<br />
+-- <br />
+ ()   ASCII Ribbon Campaign
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/286d6e39d714e=
+4f3?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+ =20
+  <a name=3D"group_thread_3"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/939=
+9bc122be91e4e?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      2014=E5=B9=B411=E6=9C=88=E6=9C=88=E5=BA=A6=E6=8A=80=E6=9C=AF=E4=BA=A4=
+=E6=B5=81=E4=BC=9A=E4=B8=BB=E9=A2=98=E5=BE=81=E5=8F=AC
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        Frank_Xu &lt;frank@shlug.org&gt;: Dec 17 12:03PM +0800
+      </span>
+      <br /><br />
+      =E5=9B=A0=E4=B8=BA=E6=B2=92=E6=9C=89=E8=B6=B3=E5=A4=A0=E5=A4=9A=E7=9A=
+=84=E9=A2=98=E7=9B=AE=EF=BC=8C=E6=9C=AC=E6=9C=88=E4=BB=8D=E7=84=B6=E6=B2=A1=
+=E6=9C=89=E6=B4=BB=E5=8A=A8=E2=80=A6=E2=80=A6<br />
+&nbsp;<br />
+=E5=9C=A8 2014=E5=B9=B412=E6=9C=8815=E6=97=A5 =E4=B8=8A=E5=8D=8811:37=EF=BC=
+=8CShell Xu &lt;shell909090@gmail.com&gt;=E5=86=99=E9=81=93=EF=BC=9A<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/e9639b880a6b5=
+46d?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+ =20
+  <a name=3D"group_thread_4"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/a05=
+dfc369137b94c?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      =E5=A4=A7=E5=AE=B6=E6=9C=89=E6=B2=A1=E6=9C=89=E6=94=AF=E6=8C=81https=
+=E7=9A=84CDN=E4=BB=8B=E7=BB=8D=E5=95=8A
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        Perry &lt;perrywky@gmail.com&gt;: Dec 17 03:59AM
+      </span>
+      <br /><br />
+      =E5=8F=88=E6=8B=8D=E4=BA=91=E4=B9=9F=E6=94=AF=E6=8C=81https<br />
+&nbsp;<br />
+
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/d5c943b2d52ca=
+352?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+ =20
+  <a name=3D"group_thread_5"></a>
+  <div style=3D"display:inline-block; font-family: arial; padding: 4px 0 5p=
+x 0px;">
+ =20
+    <a target=3D"_blank" href=3D"http://groups.google.com/group/shlug/t/faf=
+90419af4be4be?utm_source=3Ddigest&utm_medium=3Demail" style=3D"font-size:21=
+px; color:#1155CC; text-decoration:none">
+      C/C++ =E7=A8=8B=E5=BA=8F=E7=BC=96=E8=AF=91=E9=93=BE=E6=8E=A5=E6=89=80=
+=E9=81=87=E5=88=B0=E7=9A=84=E5=A5=87=E6=80=AA=E9=97=AE=E9=A2=98
+    </a>
+ =20
+  </div>
+
+  <table style=3D"border-collapse: collapse; width: 100%">
+   =20
+    <tr><td style=3D"background-color: #FFFFFF; color:#2E2E2E; font-family:=
+ arial; padding:10px 15px; border:1px solid #d3d3d3;">
+      <span style=3D"color:#B1B0B0; font-size: 15px;">
+        Plain_Text &lt;resation@gmail.com&gt;: Dec 17 08:08AM +0800
+      </span>
+      <br /><br />
+      <br />
+&gt; =E7=9B=AE=E5=89=8D=E7=8C=9C=E6=83=B3=E6=87=89=E8=A9=B2=E6=98=AF init()=
+ =E8=B7=9F Downloader::factFuncs =E5=9F=B7=E8=A1=8C=E9=A0=86=E5=BA=8F=E7=9A=
+=84=E5=95=8F=E9=A1=8C. init() =E8=A2=AB=E5=AE=89=E6=8E=92=E5=9C=A8 Download=
+er::factFuncs <br />
+&gt; =E5=88=9D=E5=A7=8B=E5=89=8D=E5=9F=B7=E8=A1=8C, =E5=B0=B1=E6=9C=89=E5=
+=8F=AF=E8=83=BD=E7=99=BC=E7=94=9F segfault. =E4=BF=AE=E6=94=B9=E9=81=8E dow=
+nloader.h &amp;
+     =20
+        <span style=3D"font-size:11px;"><a style=3D"color:#1155cc;text-deco=
+ration:none" href=3D"http://groups.google.com/group/shlug/msg/37da7c58a82c5=
+bf0?utm_source=3Ddigest&utm_medium=3Demail">...=E6=9B=B4=E5=A4=9A=E5=86=85=
+=E5=AE=B9</a></span>
+        <br />
+     =20
+    </td></tr>
+   =20
+  </table>
+  <div style=3D"align:right; font-size:11px; margin-bottom: 40px; margin-to=
+p:5px;">
+    <a style=3D"color:#1155cc;text-decoration:none" href=3D"#digest_top">=
+=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</a>
+  </div>
+
+
+
+
+  </div>
+  <div style=3D"background-color: #f5f5f5;padding: 5px 20px;">
+  <table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%">
+  <tbody><tr>
+    <td style=3D"padding-top:4px;font-family:arial,sans-serif;color:#636363=
+;font-size:11px">
+     =20
+      =E6=82=A8=E6=94=B6=E5=88=B0=E6=AD=A4=E6=91=98=E8=A6=81=E9=82=AE=E4=BB=
+=B6=E6=98=AF=E5=9B=A0=E4=B8=BA=E6=82=A8=E8=AE=A2=E9=98=85=E4=BA=86=E6=AD=A4=
+=E7=BE=A4=E7=BB=84=E7=9A=84=E6=9C=80=E6=96=B0=E5=8A=A8=E6=80=81=E3=80=82=E6=
+=82=A8=E5=8F=AF=E4=BB=A5=E5=9C=A8<a href=3D"
+  https://groups.google.com/forum/?utm_source=3Ddigest&utm_medium=3Demail#!=
+forum/shlug/join
+" style=3D"color:#1155cc;text-decoration:none">=E7=BE=A4=E7=BB=84=E6=88=90=
+=E5=91=98=E8=B5=84=E6=A0=BC=E9=A1=B5=E9=9D=A2</a>=E4=B8=8A=E6=9B=B4=E6=94=
+=B9=E8=AE=BE=E7=BD=AE=E3=80=82<br/>
+      =E8=A6=81=E9=80=80=E8=AE=A2=E6=AD=A4=E7=BE=A4=E7=BB=84=E5=B9=B6=E5=81=
+=9C=E6=AD=A2=E6=8E=A5=E6=94=B6=E6=AD=A4=E7=BE=A4=E7=BB=84=E7=9A=84=E7=94=B5=
+=E5=AD=90=E9=82=AE=E4=BB=B6=EF=BC=8C=E8=AF=B7=E5=8F=91=E9=80=81=E7=94=B5=E5=
+=AD=90=E9=82=AE=E4=BB=B6=E5=88=B0 <a href=3D"mailto:shlug+unsubscribe@googl=
+egroups.com">shlug+unsubscribe@googlegroups.com</a>=E3=80=82
+    </td>
+  </tr></tbody>
+  </table>
+  </div>
+</div>
+
+
+--0016367f94b4b30060474d22062--
+
+
+

@@ -22,16 +22,16 @@ Namespace=
 UID Validity=632086320
 UID Next=9
 Exists=6
-Last Known Mod Seq=1942729
+Last Known Mod Seq=1956097
 
 [Folder=QQ]
 Folder=QQ
 Separator=47
 Namespace=
 UID Validity=632086321
-UID Next=411
+UID Next=412
 Exists=173
-Last Known Mod Seq=1942729
+Last Known Mod Seq=1956097
 
 [Folder=[Gmail\]]
 Folder=[Gmail]
@@ -49,16 +49,16 @@ Namespace=
 UID Validity=632086317
 UID Next=267
 Exists=255
-Last Known Mod Seq=1942729
+Last Known Mod Seq=1956097
 
 [Folder=INBOX]
 Folder=INBOX
 Separator=47
 Namespace=
 UID Validity=632086286
-UID Next=4150
-Exists=163
-Last Known Mod Seq=1942729
+UID Next=4239
+Exists=229
+Last Known Mod Seq=1956092
 
 [Folder=私人邮件]
 Folder=私人邮件
@@ -74,9 +74,9 @@ Folder=[Gmail]/已发邮件
 Separator=47
 Namespace=
 UID Validity=632086291
-UID Next=528
-Exists=469
-Last Known Mod Seq=1942729
+UID Next=532
+Exists=473
+Last Known Mod Seq=1956097
 
 [Folder=[Gmail\]/草稿]
 Folder=[Gmail]/草稿
@@ -85,7 +85,7 @@ Namespace=
 UID Validity=632086292
 UID Next=783
 Exists=18
-Last Known Mod Seq=1942729
+Last Known Mod Seq=1956097
 
 [Folder=收件箱]
 Folder=收件箱
@@ -138,5 +138,23 @@ Separator=47
 Namespace=
 UID Validity=0
 UID Next=0
+Exists=0
+Last Known Mod Seq=0
+
+[Folder=[Gmail\]/Trash]
+Folder=[Gmail]/Trash
+Separator=47
+Namespace=
+UID Validity=632086329
+UID Next=3
+Exists=2
+Last Known Mod Seq=1956097
+
+[Folder=[Gmail\]/Sent Mail]
+Folder=[Gmail]/Sent Mail
+Separator=47
+Namespace=
+UID Validity=632086330
+UID Next=1
 Exists=0
 Last Known Mod Seq=0
